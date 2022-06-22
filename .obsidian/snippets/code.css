@@ -1,0 +1,4 @@
+.theme-dark pre[class*="language-"] {
+    background: #383838;
+    font-size: 1.0em;
+}

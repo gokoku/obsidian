@@ -1,0 +1,16 @@
+#blender 
+
+
+Bevel で Shape(側面)で調整する。
+
+Shape = 1.0
+![](image-koxn3dms.png)
+
+Shape = 0.5(default)
+![](image-koxmys5j.png)
+
+Shape = 0.1
+![](image-koxmzmb4.png)
+
+Shape = 0.0
+![](image-koxn036n.png)

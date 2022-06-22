@@ -1,0 +1,9 @@
+{
+  "menuCommands": [
+    {
+      "name": "Rich Links: Create Rich Links",
+      "id": "obsidian-rich-links:create-rich-links",
+      "icon": "feather-link-2"
+    }
+  ]
+}

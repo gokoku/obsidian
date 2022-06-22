@@ -1,0 +1,251 @@
+[[android]]
+
+---
+2021-10-18
+
+# リスト形式でJSONを表示する
+
+前まで。
+
+[[android  Web にアクセスする]]
+
+RecyclerView で無限スクロール
+
+## RecyclerView ライブラリの追加
+
+app/build.gradle
+
+```java
+dependencies {
+   implementation 'androidx.recyclerview:recyclerview:1.1.0'
+```
+
+## 要素を表示するレイアウト XML の作成
+
+res/layout/list_item_toot.xml
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="george" />
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/user_name"
+            tools:text="これでいいのだ～これでいいのだ～これでいいのだ～これでいいのだ～これでいいのだ～" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
+```
+
+## RecyclerView の Adapter を作成
+
+app/TootListAdapter.kt
+
+```kotlin
+package jp.co.people.sample
+
+import android.view.LayoutInflater
+import android.view.ViewGroup
+import androidx.databinding.DataBindingUtil
+import androidx.recyclerview.widget.RecyclerView
+import jp.co.people.sample.databinding.ListItemTootBinding
+
+class TootListAdapter(
+    private val layoutInflater: LayoutInflater,
+    private val tootList: ArrayList<Toot>
+) : RecyclerView.Adapter<TootListAdapter.ViewHolder>() {
+
+    override fun getItemCount() = tootList.size
+
+    override fun onCreateViewHolder(
+        parent: ViewGroup,
+        viewType: Int
+    ): ViewHolder {
+        val binding = DataBindingUtil.inflate<ListItemTootBinding>(
+            layoutInflater,
+            R.layout.list_item_toot,
+            parent,
+            false
+        )
+        return ViewHolder(binding)
+    }
+
+    override fun onBindViewHolder(
+        holder: ViewHolder,
+        position: Int
+    ) {
+        holder.bind(tootList[position])
+    }
+
+    class ViewHolder (
+        private val binding: ListItemTootBinding
+        ) : RecyclerView.ViewHolder(binding.root) {
+            fun bind(toot: Toot) {
+                binding.userName.text = toot.account.username
+                binding.content.text = toot.content
+            }
+        }
+}
+```
+
+
+## Fragment レイアウトの作成
+
+app/fragment_toot__list.xml
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            tools:listitem="@layout/list_item_toot" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
+```
+
+## この Fragment のクラスを作成
+
+app/TootListFragment.kt
+
+```kotlin
+package jp.co.people.sample
+
+import android.os.Bundle
+import android.view.View
+import androidx.databinding.DataBindingUtil
+import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import com.squareup.moshi.Moshi
+import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+import jp.co.people.sample.databinding.FragmentMainBinding
+import jp.co.people.sample.databinding.FragmentTootListBinding
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import retrofit2.Retrofit
+import retrofit2.converter.moshi.MoshiConverterFactory
+
+class TootListFragment : Fragment(R.layout.fragment_toot_list) {
+
+    companion object {
+        val TAG = TootListFragment::class.java.simpleName
+        private const val API_BASE_URL = "https://androidbook2020.keiji.io"
+    }
+
+    private var binding: FragmentTootListBinding? = null
+    private val moshi = Moshi.Builder()
+        .add(KotlinJsonAdapterFactory())
+        .build()
+    private val retrofit = Retrofit.Builder()
+        .baseUrl(API_BASE_URL)
+        .addConverterFactory(MoshiConverterFactory.create(moshi))
+        .build()
+    private val api = retrofit.create(MastodonApi::class.java)
+
+    private val coroutineScope = CoroutineScope(Dispatchers.IO)
+
+    private lateinit var adapter: TootListAdapter
+    private lateinit var layoutManager: LinearLayoutManager
+
+    private val tootList = ArrayList<Toot>()
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+        adapter = TootListAdapter(layoutInflater, tootList)
+        layoutManager = LinearLayoutManager(
+            requireContext(),
+            LinearLayoutManager.VERTICAL,
+            false
+        )
+        val bindingData: FragmentTootListBinding? = DataBindingUtil.bind(view)
+
+        binding = bindingData ?: return
+
+        bindingData.recyclerView.also {
+            it.layoutManager = layoutManager
+            it.adapter = adapter
+        }
+
+        coroutineScope.launch {
+            val tootListResponse = api.fetchPublicTimeline()
+            tootList.addAll(tootListResponse)
+            reloadTootList()
+        }
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        binding?.unbind()
+    }
+
+    private suspend fun reloadTootList() = withContext(Dispatchers.Main) {
+        adapter.notifyDataSetChanged()
+    }
+}
+```
+
+## MainActivity で このFragment を表示する
+
+app/MainActivity.kt
+
+```kotlin
+package jp.co.people.sample
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        if (savedInstanceState == null) {
+            val fragment = TootListFragment()
+            supportFragmentManager.beginTransaction()
+                .add(
+                    R.id.fragment_container,
+                    fragment,
+                    TootListFragment.TAG
+                )
+                .commit()
+        }
+    }
+}
+```
+
+
+
+次は、[[android  一方向データバインディングを使う]]

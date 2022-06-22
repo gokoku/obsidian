@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "c3ea940a23cacaf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "75be2e60bf7c19f9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea649dd902af2051",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5520ced9cfb8617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d532e91180421c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93612689cd043c2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "612a0bf0639ea5a7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "27429dc93b825022",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5f34a9d8b63b277",
+    "type": "split",
+    "children": [
+      {
+        "id": "597bd8bb1126ea89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca9badd198a88a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6f99235ace1237a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c2dccd26af64723",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5307766f8c562950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebc16cbb08ac8de4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "75be2e60bf7c19f9",
+  "lastOpenFiles": [
+    "inbox/Untitled.md",
+    "inbox/css. ニューモーフィズム.md",
+    "inbox/osx  Barrier でマウスとキーボードを共有できる.md",
+    "inbox/blender Bool Tool を使ってみる2.md",
+    "inbox/web   Youtubeショートカット.md",
+    "inbox/deno  Dino 入れてみる.md",
+    "inbox/js RSS を読ませる方法.md",
+    "inbox/chrome  ビデオの自動再生を許可する.md",
+    "inbox/raspberry_pi  Tmux の設定.md",
+    "journals/2021-10-28.md"
+  ]
+}

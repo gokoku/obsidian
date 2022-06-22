@@ -1,0 +1,30 @@
+#js #css
+
+---
+2021-10-29
+
+# CSS がインポートで跳ねられてた
+
+Vite でバニラJSでいつものようにプロジェクトを作ったが、なんと！開かない。
+
+ブラウザでエラーが起こっていた。
+
+```
+Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of "text/css". Strict MIME type checking is enforced for module scripts per HTML spec.
+```
+
+style.css が import 出来なくなりました。
+
+
+```js
+import styles from './style.css' assert { type: 'css' }
+document.adoptedStyleSheets = [styles]
+```
+
+もしくは
+
+```js
+const cssModule = await import('./css.css', { assert: { type: 'css' } })
+document.adoptedStyleSheets = [cssModule.default]
+```
+

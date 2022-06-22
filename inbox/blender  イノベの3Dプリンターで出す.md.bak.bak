@@ -1,0 +1,52 @@
+[[blender]] 
+
+
+https://flashforge.co.jp/
+
+FLASHFORGE というものらしい。
+機種 : Adventurer
+
+ソフトのダウンロード、Mac も Linux も対応してる。
+https://flashforge.co.jp/support/
+
+Flashprint
+
+### Blender のデータの作り方
+
+#### 下準備
+
+カメラと光源は削除。
+
+単位を Meters にする。
+
+![](image-kmy94dyl.png)
+
+Length を Millimeters にすると単位がmmになる。
+
+グリッドをcmにしてみる。
+https://ishigi.com/blender-units-cm/
+
+![](image-kmy9zuz2.png)
+Scale を0.01 にする
+
+---
+https://note.com/kawakoshi_shi/n/nc6e0c1b54a5f
+
+どうも、FlashPrint では Blender の単位が間違って伝えられるらしい。
+メートルの数字がそのままmmに伝わるとのこと。
+
+なので、export のときにスケールを 1000倍にするとうまくいくとのこと。
+![](2021-04-01-11-49-37-kmya6ms3.png)
+
+
+---
+
+実物の 10倍 にして 100倍にするのがいい。
+実物大だと、取り回しが無理。
+
+40cm くらいにして、
+![](image-ko18gu2o.png)
+
+100倍 の stl 形式
+![](image-ko18hccx.png)
+

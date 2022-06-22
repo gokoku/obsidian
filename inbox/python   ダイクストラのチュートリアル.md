@@ -1,0 +1,8 @@
+#python 
+
+
+https://paiza.hatenablog.com/entry/2020/11/27/150000?utm_source=subscripiton_mail&utm_medium=email&utm_campaign=subscripiton
+
+やってみよう。
+
+

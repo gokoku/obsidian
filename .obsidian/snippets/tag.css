@@ -1,0 +1,59 @@
+a.tag {
+  /*background-color: var(--text-accent);*/
+  background-color: #6d53f7;
+  border: none;
+  color: white;
+  font-size: 12px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+  transition: opacity 0.8s;
+}
+a.tag:hover {
+  color: white;
+  background-color: var(--text-accent-hover);
+  opacity: 0.6;
+}
+a.tag[href="#js"] {
+  background-color: #168062;
+}
+a.tag[href="#python"] {
+  background-color: #4d3ca6;
+}
+a.tag[href="#css"] {
+  background-color: green;
+}
+a.tag[href="#elixir"] {
+  background-color: #8e1dbd;
+}
+a.tag[href="#java"] {
+  background-color: green;
+}
+a.tag[href="#lisp"] {
+  background-color: #ab9011;
+}
+a.tag[href*="#ruby"] {
+  background-color: #b73535;
+}
+a.tag[href="#clang"] {
+  background-color: #0465c7;
+}
+a.tag[href="#cpp"] {
+  background-color: #1e76d0;
+}
+a.tag[href="#go"] {
+  background-color: #0e7ece;
+}
+a.tag[href="#haskell"] {
+  background-color: #c3830e;
+}
+a.tag[href="#julia"] {
+  background-color: #bd1db9;
+}
+a.tag[href="#blender"] {
+  background-color: #d4459b;
+}

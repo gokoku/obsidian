@@ -1,0 +1,7 @@
+#blender
+
+[https://www.thingiverse.com/](https://www.thingiverse.com/)
+
+![[Pasted image 20210525142926.png]]
+
+スゲー!!!
