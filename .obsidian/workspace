@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75be2e60bf7c19f9",
+        "id": "2b25381a956135c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "inbox/js ランダムな文字列の簡易作成チップ.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -22,29 +27,6 @@
         "id": "a5520ced9cfb8617",
         "type": "tabs",
         "children": [
-          {
-            "id": "e0d532e91180421c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "93612689cd043c2d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
           {
             "id": "612a0bf0639ea5a7",
             "type": "leaf",
@@ -60,12 +42,36 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "de5afc887b1edff5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d93c4e9551e43fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "js random",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "b5f34a9d8b63b277",
@@ -84,19 +90,12 @@
             }
           },
           {
-            "id": "d6f99235ace1237a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "8c2dccd26af64723",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/js ランダムな文字列の簡易作成チップ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,26 +117,46 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "inbox/js ランダムな文字列の簡易作成チップ.md"
+              }
+            }
+          },
+          {
+            "id": "3343441184ea19dd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3040412f3d65d667",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "75be2e60bf7c19f9",
+  "active": "2b25381a956135c9",
   "lastOpenFiles": [
-    "inbox/Untitled.md",
-    "inbox/css. ニューモーフィズム.md",
-    "inbox/osx  Barrier でマウスとキーボードを共有できる.md",
-    "inbox/blender Bool Tool を使ってみる2.md",
-    "inbox/web   Youtubeショートカット.md",
-    "inbox/deno  Dino 入れてみる.md",
-    "inbox/js RSS を読ませる方法.md",
-    "inbox/chrome  ビデオの自動再生を許可する.md",
-    "inbox/raspberry_pi  Tmux の設定.md",
-    "journals/2021-10-28.md"
+    "inbox/遠野AI  アバター受付.md",
+    "Excalidraw/zoom-metaverse 2022-10-14 14.40.48.excalidraw.md",
+    "inbox/blender  イノベの3Dプリンターで出す.md",
+    "inbox/docker PostgreSQL の永続化.md",
+    "inbox/docker  MySQL5.7 を立てる.md",
+    "inbox/command グループID とか見たい.md",
+    "inbox/mysql  SSH のポートフォワーディングで MySQL に接続する.md",
+    "inbox/DBクライアント DBeaver.md",
+    "inbox/postgresql   Postgres.app をインストールする.md",
+    "inbox/elixir 「Rails エンジニアのための Elixir Phoenix」買った.md"
   ]
 }

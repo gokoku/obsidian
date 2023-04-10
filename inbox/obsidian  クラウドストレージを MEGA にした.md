@@ -20,3 +20,8 @@ Keepassが心配かな。
 
 Github の private とかで何とか出来ないかな。
 
+# Google Drive 100GB 買ってる
+
+MEGA はやめました。
+サブスクで Google Drive 買ってる。
+

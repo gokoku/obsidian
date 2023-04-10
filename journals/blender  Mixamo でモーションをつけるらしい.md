@@ -1,0 +1,29 @@
+[[journals/daily]]
+# 2022-04-14
+
+## youtube school
+
+https://www.youtube.com/watch?v=6_xtKTaBTvI
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=6_xtKTaBTvI" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.youtube.com/embed/6_xtKTaBTvI?feature=oembed')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">キャラクターアニメーションを一発作成！Blender3.0 × Adobe Mixamo</h1>
+		<p class="rich-link-card-description">
+		ご視聴頂きありがとうございます！AdobeのMixamoを用いて、複雑なリグ設定やアニメーション設定なしに、一発でキャラクターのアニメーションを作成します。00:00 オープニング01:00 キャラクターのモデリング12:09 書き出しの準備13:40 Mixamoの使い方18:20 Mixamoのfbxデータの...
+		</p>
+		<p class="rich-link-href">
+		https://www.youtube.com/watch?v=6_xtKTaBTvI
+		</p>
+	</div>
+</a></div>
+
+
+
+
+
+- [ ] キャラクタアニメーションをキャラ作りから始めてる #check-later 

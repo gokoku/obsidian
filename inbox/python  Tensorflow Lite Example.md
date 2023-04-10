@@ -14,7 +14,8 @@ $ sudo apt python3-opencv
 tensorflow のサンプルをダウンロードする。
 
 ```bash
-$ git clone [https://github.com/tensorflow/examples](https://github.com/tensorflow/examples) --depth 1
+$ git clone https://github.com/tensorflow/tensorflow.git
+$ cd tensorflow/tensorflow
 ```
 
 ## 物体検出サンプル

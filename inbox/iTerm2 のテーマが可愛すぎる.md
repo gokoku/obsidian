@@ -15,6 +15,11 @@ https://iterm2colorschemes.com/
 
 schemes ディレクトリの中を import で読み込む。全選択して全部入れた。
 
+Preferences --> Projiles --> Colors --> Color Presets... --> import
+
+![[Pasted image 20220807155247.png | 200]]
+
+
 このページに見本があるので、よりどり緑。
 
 ![[Pasted image 20220524214618.png ]]

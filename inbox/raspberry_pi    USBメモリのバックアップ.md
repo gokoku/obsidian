@@ -2,6 +2,26 @@
 
 # Mac  でアプリを使おう。
 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.balena.io/etcher/" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.balena.io/etcher/avatar.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">balenaEtcher - Flash OS images to SD cards & USB drives</h1>
+		<p class="rich-link-card-description">
+		A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world.
+		</p>
+		<p class="rich-link-href">
+		https://www.balena.io/etcher/
+		</p>
+	</div>
+</a></div>
+
+
+
+
 Mac に USB(ext4) を差す。
 読めないよどーする?ときかれるが、無視する。
 

@@ -93,3 +93,9 @@ $ chromium-browser --noerrdialogs --disable-infobars --disable-bachground-mode \
 
 killall chromium-browse
 ```
+
+
+
+## ショートカット
+
+ctrl + F4 で止まる。

@@ -14,3 +14,10 @@ detected=1
 
 $ sudo raspistill -o test.jpg
 ```
+
+Bullseye で picamera2 は
+```
+$ libcamera-hello
+```
+
+

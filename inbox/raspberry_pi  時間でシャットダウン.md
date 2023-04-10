@@ -29,3 +29,19 @@ ex. /var/spool/cro/crontabs/pi
 ```
 
 このユーザー名のファイルが crontab -e で設定するファイル。
+
+# 効かなかった
+
+同じ設定で効かなかったラズパイがあった。
+root で設定したら上手くいった。
+
+```shell
+$ sudo su -
+# crontab -e
+```
+
+```
+00 18 * * * /sbin/shutdown -h now
+```
+
+

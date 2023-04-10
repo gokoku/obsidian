@@ -34,6 +34,61 @@ $ bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/ma
 これが一番楽なようだ。
 LTS な ここNode も入れてくれる。
 
+## Bullseye で node-red core が入らない
+
+node に .nvm を使ってインストールした。
+
+```
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+```
+
+.bashrc
+```
+export NVM_DIR="$HOME/.nvm"
+export NVM_SYMLINK_CURRENT=true
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+```
+***NVM_SYMLINK_CURRENT*** は true にする。
+
+node のインストール。
+```shell
+$ nvm ls-remote
+$ nvm install 18
+$ nvm install node  # latest version
+
+$ nvm use 18
+
+```
+
+
+npm を asdf とか nvm で入れてると sudo npm で見つからないと言われる。
+npm のパスを無理矢理通すことにした。
+```shell
+$ sudo visudo
+```
+
+```
+Defaults        secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/people/.nvm/current/bin"
+```
+.nvm のパスを追加して上のスクリプトを回した。
+
+
+node と node-red-pi が見つからないので、/usr/local/bin にリンクを貼った。
+```shell
+$ ln -s /home/people/.nvm/current/bin/node /usr/local/bin/
+$ ln -s /home/poeple/.nvm/curent/bin/node-red-pi /usr/local/bin/
+
+念の為
+$ ln -s /home/people/.nvm/current/bin/node-red /usr/local/bin/
+```
+
+
+
+
+
+
+# 起動
 ```
 $ node-red-stop
 $ node-red-start

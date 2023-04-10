@@ -7,7 +7,11 @@
 
 https://techbookfest.org/mypage/bookshelf
 
-![[Pasted image 20210715093732.png]]
+# このPDFを Kindle に転送したい
+
+
+
+cd
 
 アカウントは専用で作ってある。
 
@@ -53,18 +57,26 @@ State: Postgrex.Protocol
 ```shell
 $ brew install postgresql
 
-$ createuser postgres -s
+$ brew services restart postgresql@14
 
+$ createuser postgres -s
 
 もう一度
 $ mix ecto.create # OK!!!
 ```
+
+error socket がない?
+[[postgresql  ソケットError]]
+
 
 
 Phoenix 起動。
 
 ```shell
 $ mix phx.server
+
+これがいいのかな?
+$ iex -S mix phx.server
 ```
 
 ![[Pasted image 20210715115308.png]]

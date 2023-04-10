@@ -38,7 +38,8 @@ sdb のようだ。
 $ lsblk
 デバイス名確認 sda だったとする
 
-$ sudo umount /dev/sda
+$ sudo umount /dev/sda1
+$ sudo umount /dev/sda2
 ```
 
 ```shell

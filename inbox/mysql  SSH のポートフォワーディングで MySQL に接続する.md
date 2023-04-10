@@ -65,3 +65,25 @@ mysql>
 つまり、Sequel Ace の中では、http proxy client コマンドが動かないので、外側で仲介接続を確立させて、後は、普通に MySQL 接続するということか。
 
 
+## JSGCS の MariaDB
+
+```config
+Host ganport
+Proxycommand env CONNECT_USER=people CONNECT_PASSWORD=p30pl312E connect -H ns2.people.co.jp:8080 %h %p
+hostname 210.152.116.228
+Port 10220
+User pmorioka
+```
+
+ssh では port 10220 でないと、mariaDB に接続できないようになっている。
+
+```shell
+$ ssh -NL 127.0.0.1:3306:127.0.0.1:3306 ganport -vvv
+```
+
+
+![[Pasted image 20220912143327.png]]
+
+![[Pasted image 20220912143342.png]]
+
+

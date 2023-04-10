@@ -12,7 +12,7 @@ asdf list all ruby で見つからない。
 ruby plugin を update したい。
 
 ```shell
-$ asdf plugin-update ruby
+$ asdf plugin update ruby
 ...
 3.1.2
 ...

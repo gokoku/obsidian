@@ -18,7 +18,7 @@ $ node-red-start
 $ node-red-status
 
 
-$ sudo systemctl status .service
+$ sudo systemctl status nodered.service
 $ sudo systemctl enable nodered.service
 $ sudo systemctl disable nodered.service
 ```

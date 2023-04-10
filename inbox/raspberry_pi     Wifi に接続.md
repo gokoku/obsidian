@@ -58,3 +58,11 @@ vnc enable
 メニューから出したウィンドウの上をドラッグして下げたらうまくいった。
 
 
+
+# Pop!_OS から接続する
+
+pop_os から raspberry_pi に接続するのに、TigerVNC を使う。
+
+
+[[pop_os Raspberry_pi に VNC 接続したい]]
+

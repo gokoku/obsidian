@@ -31,6 +31,32 @@ alsamixer で音量上げてやったら鳴るようになった。
 ![](image-kmq1siml.png)
 
 
+### 音量が小さくなる!
+alsamixer で UACDemoV1.0 を上げても、保持されないみたいな現象。
+
+http://www.yam-web.net/raspberry-pi/music.html
+
+```shell
+# 調査
+$ amixer controls
+numid=4,iface=MIXER,name='Master Playback Switch'
+numid=3,iface=MIXER,name='Master Playback Volume'
+numid=2,iface=MIXER,name='Capture Switch'
+numid=1,iface=MIXER,name='Capture Volume'
+
+# 音量設定は numid=1
+
+# 現在の音量の設定を見る
+$ amixer cget numid=1
+
+# 音量設定する
+$ amixer cset numid=1 83%
+
+# 設定を保持する!!!!!!
+$ sudo alsactl store
+```
+
+
 ## HDMI で鳴らす
 /boot/config.txt
 ```shell

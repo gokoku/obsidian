@@ -198,6 +198,8 @@ $ brew install pandoc
 
 URL を選択して、コマンドパレットで rich 。
 
+![[Pasted image 20221019212622.png | 400]]
+
 ![[Pasted image 20220122230145.png|400]]
 
 これを実行すると　↓　

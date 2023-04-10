@@ -5,6 +5,15 @@
 
 # Postgresql install
 
+postgresql の代わりに postgresql@14使えと言われた。2023/04/01
+
+
+```shell
+$ brew uninstall postgresql
+$ brew install postgresql@14
+```
+
+
 ```shell
 $ brew install postgresql
 
@@ -88,4 +97,14 @@ $ dropuser postgres
 
 $ createuser postgres -s
 ```
+
+## データベース delete
+```shell
+> DROP DATABASE name;
+> \l
+
+コンマつけないと動かないで、スルーされるので注意。
+```
+
+
 

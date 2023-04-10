@@ -117,4 +117,49 @@ $ docker compose up
 
 
 
+# docker-ce-rootless-extras で error
 
+```shell
+$ sudo dpkg --audit
+
+以下のパッケージはインストール中に重大な問題が発生したため混乱しています。
+これらのパッケージ (とこれらに依存するパッケージ) が正しく動作するために
+は、以下のパッケージを再インストールしなければなりません:
+ docker-ce-rootless-extras Rootless support for Docker.
+
+```
+
+/var/lib/dpkg/info 配下の docker-ce-rootless-extras 関連を消す。
+
+```shell
+$ sudo rm /var/lib/dpkg/info/docker-ce-rootless-extras.*
+```
+
+これやってdpkg が壊れたみたい。
+
+```
+$ sudo apt upgrade
+
+dpkg: パッケージ docker-ce-rootless-extras の処理中にエラーが発生しました (--configure):
+ パッケージが非常に矛盾した状態に陥りました。設定を試みる
+前に再インストールすべきです。
+処理中にエラーが発生しました:
+
+```
+
+調べる。
+```shell
+$ dpkg -s docker-ce-rootless-extras
+
+Status: install reinstreq
+```
+
+reinstreq 壊れてるので要再インストールの意味らしい。
+
+強制的に削除する。
+
+```shell
+dpkg -P --force-remove-reinstreq docker-ce-rootless-extras
+```
+
+これで apt upgrade 出来るようになったからいっか。

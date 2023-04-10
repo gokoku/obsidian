@@ -49,5 +49,5 @@ UUID=f9f3f9b7-2426-4671-aec0-2a76e6938d3b /var/log ext4 defaults,noatime 0 0
 
 # バックアップの話
 
-この 外部メモリ SDメモリ、USBメモリディスク丸ごとコピーで、UUID も一緒になるようだ。
+この 外部メモリ SDメモリUSBメモリディスク丸ごとコピーで、UUID も一緒になるようだ。
 

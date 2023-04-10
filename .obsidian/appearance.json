@@ -5,6 +5,9 @@
     "code",
     "icon",
     "suttestion",
-    "tag"
-  ]
+    "tag",
+    "table"
+  ],
+  "baseFontSize": 16,
+  "accentColor": ""
 }

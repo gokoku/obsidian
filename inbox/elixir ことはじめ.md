@@ -100,3 +100,9 @@ iex でロード
 $ iex
 > c "somefile.exs"
 ```
+
+リコンパイル
+```shell
+$ iex -S mix
+> recompile()
+```
