@@ -4,36 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "b44a5e76fa7400ba",
+        "id": "279446429c47fb3f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3174e8245481792",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "21a022c073d1db82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "75131b688d8081e5",
+            "id": "e5f8b06ac92d03c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md",
+                "file": "inbox/GTFS データのまとめ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "502240e49ccbf6c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "25356a9da5fa5c49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bdbcc3f546765554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/css  Canvas要素をA4サイズにマッピングしたい.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gtfs",
+                "query": "a4 size pixel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md",
+                "file": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md"
+                "file": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
               }
             }
           }
@@ -185,39 +198,40 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-rich-links:Rich Links": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "75131b688d8081e5",
+  "active": "502240e49ccbf6c9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md",
-    "inbox/ssh  no matching host key type found. で入れない.md",
-    "inbox/無題のファイル 1.md",
-    "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md",
-    "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md",
-    "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md",
-    "Excalidraw/tono_ai 2023-01-26 12.59.14.excalidraw.md",
-    "Excalidraw/yahabus-pherse-1 2023-04-04 15.11.44.excalidraw.md",
-    "Excalidraw/yahabus 2023-03-31 16.40.17.excalidraw.md",
-    "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md",
-    "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-07 11.38.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-14 17.35.57.excalidraw.md",
-    "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md",
-    "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md",
     "inbox/GTFS データのまとめ.md",
-    "inbox/rails 7 で TypeScript と React を入れるには.md",
-    "inbox/vr　NeoRoidアバターをHubsでも使ってみた.md",
-    "inbox/devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法.md",
-    "inbox/無題のファイル 2.md",
-    "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
-    "inbox/asdf Leiningen 2がinstall 出来なかった.md",
-    "inbox/rails Rails×React×TypeScriptで作るWEBアプリ入門.md",
-    "inbox/今どき react 再入門.md",
-    "inbox/clojure-cli を入れる.md",
-    "inbox/raspberry_pi   音まわり.md",
+    "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md",
+    "inbox/css  Canvas要素をA4サイズにマッピングしたい.md",
+    "inbox/aws  個人用 AWS の設定.md",
+    "pictures/Pasted image 20230417132553.png",
+    "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-22 09.07.50.excalidraw.md",
+    "Excalidraw/gtfs-relationship 2023-02-20 10.34.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-28 14.27.28.excalidraw.md",
+    "Excalidraw/yahaba-gtfs-やはばす 2023-03-02 16.28.00.excalidraw.md",
+    "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md",
+    "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md",
+    "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md",
+    "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md",
+    "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md",
+    "Excalidraw/tonoabator 2023-02-09 14.41.30.excalidraw.md",
+    "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md",
+    "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md",
+    "Excalidraw/tono-avator 2023-02-10 13.25.08.excalidraw.md",
+    "Excalidraw/tono-avator 2023-02-09 17.48.38.excalidraw.md",
+    "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md",
+    "Excalidraw/tono-avator 2023-02-03 18.02.46.excalidraw.md",
+    "Excalidraw/yahabus 2023-03-31 16.40.17.excalidraw.md",
+    "Excalidraw/yahabus-pherse-1 2023-04-04 15.11.44.excalidraw.md",
+    "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md",
+    "Excalidraw/tono_ai 2023-01-26 12.59.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md",
     "pictures/Pasted image 20230404120311.png",
     "pictures/Pasted image 20230404120223.png",
     "pictures/Pasted image 20230404103808.png",
@@ -226,7 +240,6 @@
     "pictures/Pasted image 20230330084242.png",
     "pictures/Pasted image 20230330083921.png",
     "pictures/スクリーンショット 2023-03-28 13.39.10.png",
-    "pictures/スクリーンショット 2023-03-28 13.37.22.png",
-    "pictures/スクリーンショット 2023-03-28 13.37.00.png"
+    "pictures/スクリーンショット 2023-03-28 13.37.22.png"
   ]
 }
