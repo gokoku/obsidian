@@ -16,6 +16,7 @@ npm-check-updates を使うと便利らしい。
 
 https://qiita.com/sugurutakahashi12345/items/df736ddaf65c244e1b4f
 
+
 インストール
 ```shell
 $ npm -g i npm-check-updates
