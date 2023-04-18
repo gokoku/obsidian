@@ -4,36 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b44a5e76fa7400ba",
+        "id": "e48092de7e969ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "a3174e8245481792",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "21a022c073d1db82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "75131b688d8081e5",
+            "id": "da3f3a86203e06d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md",
+                "file": "inbox/矢巾やはばすのGTFS解析.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "171dd40c16f1139b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/hhkb 手に入れた.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md",
+                "file": "inbox/hhkb 手に入れた.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/ssh  no matching host key type found. で入れない.md"
+                "file": "inbox/hhkb 手に入れた.md"
               }
             }
           }
@@ -185,16 +178,23 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-rich-links:Rich Links": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "75131b688d8081e5",
+  "active": "171dd40c16f1139b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md",
-    "inbox/ssh  no matching host key type found. で入れない.md",
+    "pictures/Pasted image 20230418213143.png",
+    "pictures/Pasted image 20230418213043.png",
+    "pictures/Pasted image 20230418212918.png",
+    "pictures/Pasted image 20230418211540.png",
+    "inbox/矢巾やはばすのGTFS解析.md",
+    "inbox/hhkb 手に入れた.md",
+    "inbox/無題のファイル.md",
     "inbox/無題のファイル 1.md",
+    "inbox/ssh  no matching host key type found. で入れない.md",
+    "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md",
     "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md",
     "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md",
     "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md",
@@ -214,19 +214,12 @@
     "inbox/無題のファイル 2.md",
     "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
     "inbox/asdf Leiningen 2がinstall 出来なかった.md",
-    "inbox/rails Rails×React×TypeScriptで作るWEBアプリ入門.md",
-    "inbox/今どき react 再入門.md",
-    "inbox/clojure-cli を入れる.md",
-    "inbox/raspberry_pi   音まわり.md",
     "pictures/Pasted image 20230404120311.png",
     "pictures/Pasted image 20230404120223.png",
     "pictures/Pasted image 20230404103808.png",
     "pictures/Pasted image 20230330185202.png",
     "pictures/Pasted image 20230330110106.png",
     "pictures/Pasted image 20230330084242.png",
-    "pictures/Pasted image 20230330083921.png",
-    "pictures/スクリーンショット 2023-03-28 13.39.10.png",
-    "pictures/スクリーンショット 2023-03-28 13.37.22.png",
-    "pictures/スクリーンショット 2023-03-28 13.37.00.png"
+    "pictures/Pasted image 20230330083921.png"
   ]
 }

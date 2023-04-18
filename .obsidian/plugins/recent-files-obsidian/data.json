@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "hhkb 手に入れた",
+      "path": "inbox/hhkb 手に入れた.md"
+    },
+    {
+      "basename": "矢巾やはばすのGTFS解析",
+      "path": "inbox/矢巾やはばすのGTFS解析.md"
+    },
+    {
       "basename": "ssh  no matching host key type found. で入れない",
       "path": "inbox/ssh  no matching host key type found. で入れない.md"
     },
     {
       "basename": "Drawing 2023-04-07 18.30.55.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md"
-    },
-    {
-      "basename": "無題のファイル 1",
-      "path": "inbox/無題のファイル 1.md"
     },
     {
       "basename": "trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "js Base64エンコードデコード",
       "path": "inbox/js Base64エンコードデコード.md"
-    },
-    {
-      "basename": "ai  Alpaca をローカルにインストール",
-      "path": "inbox/ai  Alpaca をローカルにインストール.md"
     }
   ],
   "omittedPaths": [],
