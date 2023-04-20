@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
+      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
+      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
     },
     {
-      "basename": "GTFS データのまとめ",
-      "path": "inbox/GTFS データのまとめ.md"
+      "basename": "rails CarrierWave で url にドメインをつけたい",
+      "path": "inbox/rails CarrierWave で url にドメインをつけたい.md"
+    },
+    {
+      "basename": "vscode 全角が見えるようにする",
+      "path": "inbox/vscode 全角が見えるようにする.md"
+    },
+    {
+      "basename": "aws アカウント作った",
+      "path": "inbox/aws アカウント作った.md"
+    },
+    {
+      "basename": "mysql 8 を入れてrootにゆるゆるパスワードを入れる",
+      "path": "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md"
+    },
+    {
+      "basename": "ChatGTP を最強の学習ツールにするんだって",
+      "path": "inbox/ChatGTP を最強の学習ツールにするんだって.md"
     },
     {
       "basename": "css  Canvas要素をA4サイズにマッピングしたい",
       "path": "inbox/css  Canvas要素をA4サイズにマッピングしたい.md"
     },
     {
-      "basename": "aws  個人用 AWS の設定",
-      "path": "inbox/aws  個人用 AWS の設定.md"
+      "basename": "ai ChatGPT の深津氏のメソッド",
+      "path": "inbox/ai ChatGPT の深津氏のメソッド.md"
+    },
+    {
+      "basename": "ai ChatGPT の IDE Cursor",
+      "path": "inbox/ai ChatGPT の IDE Cursor.md"
+    },
+    {
+      "basename": "ai  RWKV がすごいらしい",
+      "path": "inbox/ai  RWKV がすごいらしい.md"
+    },
+    {
+      "basename": "2021-12-16",
+      "path": "journals/2021-12-16.md"
     },
     {
       "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
+    },
+    {
+      "basename": "GTFS データのまとめ",
+      "path": "inbox/GTFS データのまとめ.md"
+    },
+    {
+      "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
+      "path": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
+    },
+    {
+      "basename": "aws  個人用 AWS の設定",
+      "path": "inbox/aws  個人用 AWS の設定.md"
     },
     {
       "basename": "Drawing 2023-02-22 09.07.50.excalidraw",
@@ -121,10 +161,6 @@
       "path": "inbox/launchctl Puppeteer で Garoon の通知が何個あるか通知センターで出す.md"
     },
     {
-      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
-      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
-    },
-    {
       "basename": "js     古いパッケージを知る",
       "path": "inbox/js     古いパッケージを知る.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "command  SSH で Bad configuration option usekeychain と出る",
       "path": "inbox/command  SSH で Bad configuration option usekeychain と出る.md"
-    },
-    {
-      "basename": "js   Puppeteer",
-      "path": "inbox/js   Puppeteer.md"
-    },
-    {
-      "basename": "launchctl.   Puppeteer で自動ログインしてOBC の打刻ページを出す",
-      "path": "inbox/launchctl.   Puppeteer で自動ログインしてOBC の打刻ページを出す.md"
-    },
-    {
-      "basename": "rails 7 で TypeScript と React を入れるには",
-      "path": "inbox/rails 7 で TypeScript と React を入れるには.md"
-    },
-    {
-      "basename": "vr　NeoRoidアバターをHubsでも使ってみた",
-      "path": "inbox/vr　NeoRoidアバターをHubsでも使ってみた.md"
-    },
-    {
-      "basename": "devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法",
-      "path": "inbox/devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法.md"
-    },
-    {
-      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
-      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
-    },
-    {
-      "basename": "asdf Leiningen 2がinstall 出来なかった",
-      "path": "inbox/asdf Leiningen 2がinstall 出来なかった.md"
-    },
-    {
-      "basename": "今どき react 再入門",
-      "path": "inbox/今どき react 再入門.md"
-    },
-    {
-      "basename": "clojure-cli を入れる",
-      "path": "inbox/clojure-cli を入れる.md"
     }
   ],
   "omittedPaths": [],
