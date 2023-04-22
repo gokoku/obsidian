@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/clojure を今の mac の VSCode で動かす.md",
+                "file": "inbox/hhkb 手に入れた.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chrome_book",
+                "query": "hhkb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/clojure を今の mac の VSCode で動かす.md",
+                "file": "inbox/hhkb 手に入れた.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/clojure を今の mac の VSCode で動かす.md"
+                "file": "inbox/hhkb 手に入れた.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "335eaf7f15ffd54b",
   "lastOpenFiles": [
+    "inbox/clojure を今の mac の VSCode で動かす.md",
     "pictures/Pasted image 20230419101944.png",
     "pictures/Pasted image 20230419092429.png",
     "inbox/vscode 全角が見えるようにする.md",
@@ -210,7 +211,6 @@
     "pictures/Pasted image 20230419232402.png",
     "pictures/Pasted image 20230419231903.png",
     "inbox/clojure  Clojure 事始め.md",
-    "inbox/clojure を今の mac の VSCode で動かす.md",
     "inbox/emacs Clojure 再入門(何度目?).md",
     "inbox/elixir Livebook でWebアプリにデプロイ?.md",
     "inbox/elixir ことはじめ.md",
@@ -223,7 +223,6 @@
     "Excalidraw/Drawing 2023-04-11 18.09.09.excalidraw.md",
     "pictures/Pasted image 20230418213143.png",
     "pictures/Pasted image 20230418213043.png",
-    "pictures/Pasted image 20230418212918.png",
     "inbox/矢巾やはばすのGTFS解析.md",
     "inbox/無題のファイル.md",
     "inbox/無題のファイル 1.md",
