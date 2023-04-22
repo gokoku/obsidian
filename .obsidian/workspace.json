@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/hhkb 手に入れた.md",
+                "file": "inbox/clojure  Clojure 事始め.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335eaf7f15ffd54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/clojure を今の mac の VSCode で動かす.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gtfs",
+                "query": "tag:#chrome_book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/hhkb 手に入れた.md",
+                "file": "inbox/clojure を今の mac の VSCode で動かす.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/hhkb 手に入れた.md"
+                "file": "inbox/clojure を今の mac の VSCode で動かす.md"
               }
             }
           }
@@ -183,8 +196,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "171dd40c16f1139b",
+  "active": "335eaf7f15ffd54b",
   "lastOpenFiles": [
+    "pictures/Pasted image 20230419233310.png",
+    "pictures/Pasted image 20230419232745.png",
+    "pictures/Pasted image 20230419232552.png",
+    "pictures/Pasted image 20230419232402.png",
+    "pictures/Pasted image 20230419231903.png",
+    "inbox/clojure  Clojure 事始め.md",
+    "inbox/clojure を今の mac の VSCode で動かす.md",
+    "inbox/emacs Clojure 再入門(何度目?).md",
+    "inbox/elixir Livebook でWebアプリにデプロイ?.md",
+    "inbox/elixir ことはじめ.md",
+    "inbox/hhkb 手に入れた.md",
     "pictures/Pasted image 20230417132553.png",
     "inbox/vscode  Emacs バインドは Awesome Emacs keymap.md",
     "inbox/js M2 に移行したら Puppeteer が動かなくなった.md",
@@ -196,7 +220,6 @@
     "pictures/Pasted image 20230418212918.png",
     "pictures/Pasted image 20230418211540.png",
     "inbox/矢巾やはばすのGTFS解析.md",
-    "inbox/hhkb 手に入れた.md",
     "inbox/無題のファイル.md",
     "inbox/無題のファイル 1.md",
     "inbox/ssh  no matching host key type found. で入れない.md",
@@ -210,16 +233,6 @@
     "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md",
     "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md",
     "Excalidraw/Drawing 2023-03-07 11.38.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-14 17.35.57.excalidraw.md",
-    "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md",
-    "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md",
-    "inbox/GTFS データのまとめ.md",
-    "inbox/rails 7 で TypeScript と React を入れるには.md",
-    "pictures/Pasted image 20230404120311.png",
-    "pictures/Pasted image 20230404120223.png",
-    "pictures/Pasted image 20230404103808.png",
-    "pictures/Pasted image 20230330185202.png",
-    "pictures/Pasted image 20230330110106.png",
-    "pictures/Pasted image 20230330084242.png"
+    "pictures/Pasted image 20230404120311.png"
   ]
 }

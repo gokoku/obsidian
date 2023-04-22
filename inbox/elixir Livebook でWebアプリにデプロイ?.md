@@ -54,3 +54,14 @@ end)
 
 localhost:0/apps/chat となって上手くいきませんでした。
 
+# github からの clone だと上手くいく
+
+```shell
+$ git clone https://github.com/livebook-dev/livebook
+$ cd livebook
+$ mix deps.get --only prod
+$ MIX_ENV=prod mix phx.server
+```
+
+
+
