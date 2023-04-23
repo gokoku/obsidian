@@ -1,48 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
-      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
+      "basename": "mysql  今日の日付のものを抽出するには",
+      "path": "inbox/mysql  今日の日付のものを抽出するには.md"
     },
     {
-      "basename": "hhkb 手に入れた",
-      "path": "inbox/hhkb 手に入れた.md"
+      "basename": "Drawing 2023-04-21 13.00.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md"
     },
     {
-      "basename": "矢巾やはばすのGTFS解析",
-      "path": "inbox/矢巾やはばすのGTFS解析.md"
-    },
-    {
-      "basename": "ssh  no matching host key type found. で入れない",
-      "path": "inbox/ssh  no matching host key type found. で入れない.md"
-    },
-    {
-      "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
-    },
-    {
-      "basename": "rails CarrierWave で url にドメインをつけたい",
-      "path": "inbox/rails CarrierWave で url にドメインをつけたい.md"
-    },
-    {
-      "basename": "vscode 全角が見えるようにする",
-      "path": "inbox/vscode 全角が見えるようにする.md"
-    },
-    {
-      "basename": "aws アカウント作った",
-      "path": "inbox/aws アカウント作った.md"
-    },
-    {
-      "basename": "mysql 8 を入れてrootにゆるゆるパスワードを入れる",
-      "path": "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md"
+      "basename": "yahabus_calendar_date 2023-04-21 11.43.11.excalidraw",
+      "path": "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md"
     },
     {
       "basename": "ChatGTP を最強の学習ツールにするんだって",
       "path": "inbox/ChatGTP を最強の学習ツールにするんだって.md"
     },
     {
-      "basename": "trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw",
-      "path": "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md"
+      "basename": "mysql 8 を入れてrootにゆるゆるパスワードを入れる",
+      "path": "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md"
+    },
+    {
+      "basename": "aws アカウント作った",
+      "path": "inbox/aws アカウント作った.md"
+    },
+    {
+      "basename": "vscode 全角が見えるようにする",
+      "path": "inbox/vscode 全角が見えるようにする.md"
+    },
+    {
+      "basename": "hhkb 手に入れた",
+      "path": "inbox/hhkb 手に入れた.md"
+    },
+    {
+      "basename": "vscode Prettier の設定",
+      "path": "inbox/vscode Prettier の設定.md"
+    },
+    {
+      "basename": "vscode Tab Indent 設定",
+      "path": "inbox/vscode Tab Indent 設定.md"
+    },
+    {
+      "basename": "GTFS データのまとめ",
+      "path": "inbox/GTFS データのまとめ.md"
+    },
+    {
+      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
+      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
+    },
+    {
+      "basename": "rails CarrierWave で url にドメインをつけたい",
+      "path": "inbox/rails CarrierWave で url にドメインをつけたい.md"
     },
     {
       "basename": "css  Canvas要素をA4サイズにマッピングしたい",
@@ -67,10 +75,6 @@
     {
       "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
-    },
-    {
-      "basename": "GTFS データのまとめ",
-      "path": "inbox/GTFS データのまとめ.md"
     },
     {
       "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
@@ -195,178 +199,6 @@
     {
       "basename": "warp  次世代ターミナル!",
       "path": "inbox/warp  次世代ターミナル!.md"
-    },
-    {
-      "basename": "Drawing 2022-12-21 09.15.00.excalidraw",
-      "path": "Excalidraw/Drawing 2022-12-21 09.15.00.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-09-06 14.55.20.excalidraw",
-      "path": "Excalidraw/Drawing 2022-09-06 14.55.20.excalidraw.md"
-    },
-    {
-      "basename": "iterm Emacs の Meta key",
-      "path": "inbox/iterm Emacs の Meta key.md"
-    },
-    {
-      "basename": "RxJS 2022-06-24 14.33.51.excalidraw",
-      "path": "Excalidraw/RxJS 2022-06-24 14.33.51.excalidraw.md"
-    },
-    {
-      "basename": "lisp Roswell を使って common lisp 始める",
-      "path": "inbox/lisp Roswell を使って common lisp 始める.md"
-    },
-    {
-      "basename": "command  SSH で Bad configuration option usekeychain と出る",
-      "path": "inbox/command  SSH で Bad configuration option usekeychain と出る.md"
-    },
-    {
-      "basename": "js   Puppeteer",
-      "path": "inbox/js   Puppeteer.md"
-    },
-    {
-      "basename": "launchctl.   Puppeteer で自動ログインしてOBC の打刻ページを出す",
-      "path": "inbox/launchctl.   Puppeteer で自動ログインしてOBC の打刻ページを出す.md"
-    },
-    {
-      "basename": "rails 7 で TypeScript と React を入れるには",
-      "path": "inbox/rails 7 で TypeScript と React を入れるには.md"
-    },
-    {
-      "basename": "vr　NeoRoidアバターをHubsでも使ってみた",
-      "path": "inbox/vr　NeoRoidアバターをHubsでも使ってみた.md"
-    },
-    {
-      "basename": "devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法",
-      "path": "inbox/devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法.md"
-    },
-    {
-      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
-      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
-    },
-    {
-      "basename": "asdf Leiningen 2がinstall 出来なかった",
-      "path": "inbox/asdf Leiningen 2がinstall 出来なかった.md"
-    },
-    {
-      "basename": "今どき react 再入門",
-      "path": "inbox/今どき react 再入門.md"
-    },
-    {
-      "basename": "clojure-cli を入れる",
-      "path": "inbox/clojure-cli を入れる.md"
-    },
-    {
-      "basename": "raspberry_pi   音まわり",
-      "path": "inbox/raspberry_pi   音まわり.md"
-    },
-    {
-      "basename": "asdf asdf-vm にする",
-      "path": "inbox/asdf asdf-vm にする.md"
-    },
-    {
-      "basename": "elixir Livebook でWebアプリにデプロイ?",
-      "path": "inbox/elixir Livebook でWebアプリにデプロイ?.md"
-    },
-    {
-      "basename": "blender  生成AI「Stability For Blender」を発表",
-      "path": "inbox/blender  生成AI「Stability For Blender」を発表.md"
-    },
-    {
-      "basename": "ai   最近話題になった大規模言語モデルまとめ",
-      "path": "inbox/ai   最近話題になった大規模言語モデルまとめ.md"
-    },
-    {
-      "basename": "emacs Clojure 再入門(何度目?)",
-      "path": "inbox/emacs Clojure 再入門(何度目?).md"
-    },
-    {
-      "basename": "unity  clusterワールド作成はunityを使いこなすための近道",
-      "path": "inbox/unity  clusterワールド作成はunityを使いこなすための近道.md"
-    },
-    {
-      "basename": "postgresql  インストール",
-      "path": "inbox/postgresql  インストール.md"
-    },
-    {
-      "basename": "vscode  Rails html.erb で Emmet",
-      "path": "inbox/vscode  Rails html.erb で Emmet.md"
-    },
-    {
-      "basename": "ドットnewのサービスが流行ってるらしい",
-      "path": "inbox/ドットnewのサービスが流行ってるらしい.md"
-    },
-    {
-      "basename": "canva 今、やっぱりすごい",
-      "path": "inbox/canva 今、やっぱりすごい.md"
-    },
-    {
-      "basename": "ai  ChatGPT4 を Free で使う",
-      "path": "inbox/ai  ChatGPT4 を Free で使う.md"
-    },
-    {
-      "basename": "ai  Talk-llama",
-      "path": "inbox/ai  Talk-llama.md"
-    },
-    {
-      "basename": "ai  RWKV がすごいらしい",
-      "path": "inbox/ai  RWKV がすごいらしい.md"
-    },
-    {
-      "basename": "Drawing 2023-02-28 14.27.28.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-28 14.27.28.excalidraw.md"
-    },
-    {
-      "basename": "gtfs-relationship 2023-02-20 10.34.16.excalidraw",
-      "path": "Excalidraw/gtfs-relationship 2023-02-20 10.34.16.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 09.07.50.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 09.07.50.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-10 13.25.08.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-10 13.25.08.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-09 17.48.38.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-09 17.48.38.excalidraw.md"
-    },
-    {
-      "basename": "ogasta 2023-01-31 11.46.29.excalidraw",
-      "path": "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md"
-    },
-    {
-      "basename": "ogasta 2023-02-06 13.41.08.excalidraw",
-      "path": "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-03 18.02.46.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-03 18.02.46.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
-    },
-    {
-      "basename": "tonoabator 2023-02-09 14.41.30.excalidraw",
-      "path": "Excalidraw/tonoabator 2023-02-09 14.41.30.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
-    },
-    {
-      "basename": "rails. JS でCORSが出た",
-      "path": "inbox/rails. JS でCORSが出た.md"
-    },
-    {
-      "basename": "aws  EC2インスタンスを立てる",
-      "path": "inbox/aws  EC2インスタンスを立てる.md"
-    },
-    {
-      "basename": "js Base64エンコードデコード",
-      "path": "inbox/js Base64エンコードデコード.md"
     }
   ],
   "omittedPaths": [],
