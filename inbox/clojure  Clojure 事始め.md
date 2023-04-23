@@ -9,6 +9,12 @@ asdf で clojure と lein をいれた。
 
 #chrome_book   asdf-vm はすごそう]]
 
+```shell
+$ asdf plugin add clojure https://github.com/asdf-community/asdf-clojure.git
+
+
+```
+
 globalをセットしてないと動かない。
 
 ```shell

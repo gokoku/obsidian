@@ -163,6 +163,38 @@
     {
       "basename": "tono_ai 2023-01-26 12.59.14.excalidraw",
       "path": "Excalidraw/tono_ai 2023-01-26 12.59.14.excalidraw.md"
+    }
+    {
+      "basename": "hhkb 手に入れた",
+      "path": "inbox/hhkb 手に入れた.md"
+    },
+    {
+      "basename": "clojure を今の mac の VSCode で動かす",
+      "path": "inbox/clojure を今の mac の VSCode で動かす.md"
+    },
+    {
+      "basename": "clojure  Clojure 事始め",
+      "path": "inbox/clojure  Clojure 事始め.md"
+    },
+    {
+      "basename": "emacs Clojure 再入門(何度目?)",
+      "path": "inbox/emacs Clojure 再入門(何度目?).md"
+    },
+    {
+      "basename": "elixir Livebook でWebアプリにデプロイ?",
+      "path": "inbox/elixir Livebook でWebアプリにデプロイ?.md"
+    },
+    {
+      "basename": "elixir ことはじめ",
+      "path": "inbox/elixir ことはじめ.md"
+    },
+    {
+      "basename": "矢巾やはばすのGTFS解析",
+      "path": "inbox/矢巾やはばすのGTFS解析.md"
+    },
+    {
+      "basename": "ssh  no matching host key type found. で入れない",
+      "path": "inbox/ssh  no matching host key type found. で入れない.md"
     },
     {
       "basename": "Drawing 2023-04-07 18.30.55.excalidraw",
@@ -173,32 +205,164 @@
       "path": "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md"
     },
     {
-      "basename": "Drawing 2023-04-11 18.09.09.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-11 18.09.09.excalidraw.md"
+      "basename": "yahabus phase2 image 2023-04-04 15.57.27.excalidraw",
+      "path": "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md"
     },
     {
-      "basename": "矢巾やはばすのGTFS解析",
-      "path": "inbox/矢巾やはばすのGTFS解析.md"
+      "basename": "yahabus 2023-03-01 17.45.12.excalidraw",
+      "path": "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md"
     },
     {
-      "basename": "launchctl Puppeteer で Garoon の通知が何個あるか通知センターで出す",
-      "path": "inbox/launchctl Puppeteer で Garoon の通知が何個あるか通知センターで出す.md"
+      "basename": "tono_ai 2023-01-26 12.59.14.excalidraw",
+      "path": "Excalidraw/tono_ai 2023-01-26 12.59.14.excalidraw.md"
     },
     {
-      "basename": "js     古いパッケージを知る",
-      "path": "inbox/js     古いパッケージを知る.md"
+      "basename": "yahabus-pherse-1 2023-04-04 15.11.44.excalidraw",
+      "path": "Excalidraw/yahabus-pherse-1 2023-04-04 15.11.44.excalidraw.md"
     },
     {
-      "basename": "ubuntu caps キーをctrl にする",
-      "path": "inbox/ubuntu caps キーをctrl にする.md"
+      "basename": "yahabus 2023-03-31 16.40.17.excalidraw",
+      "path": "Excalidraw/yahabus 2023-03-31 16.40.17.excalidraw.md"
     },
     {
-      "basename": "vscode  Emacs バインドは Awesome Emacs keymap",
-      "path": "inbox/vscode  Emacs バインドは Awesome Emacs keymap.md"
+      "basename": "GTFS function 2023-03-24 14.44.05.excalidraw",
+      "path": "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md"
     },
     {
       "basename": "warp  次世代ターミナル!",
       "path": "inbox/warp  次世代ターミナル!.md"
+    }
+    {
+      "basename": "gtfs_ER図 2023-03-09 17.15.57.excalidraw",
+      "path": "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md"
+    },
+    {
+      "basename": "GTFS_table 2023-03-03 18.02.47.excalidraw",
+      "path": "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md"
+    },
+    {
+      "basename": "やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw",
+      "path": "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md"
+    },
+    {
+      "basename": "GTFS データのまとめ",
+      "path": "inbox/GTFS データのまとめ.md"
+    },
+    {
+      "basename": "rails 7 で TypeScript と React を入れるには",
+      "path": "inbox/rails 7 で TypeScript と React を入れるには.md"
+    },
+    {
+      "basename": "vr　NeoRoidアバターをHubsでも使ってみた",
+      "path": "inbox/vr　NeoRoidアバターをHubsでも使ってみた.md"
+    },
+    {
+      "basename": "devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法",
+      "path": "inbox/devops 昔ながらの監視ツールから脱却しよう！Datadog APMで学ぶオブザーバビリティ実践法.md"
+    },
+    {
+      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
+      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
+    },
+    {
+      "basename": "asdf Leiningen 2がinstall 出来なかった",
+      "path": "inbox/asdf Leiningen 2がinstall 出来なかった.md"
+    },
+    {
+      "basename": "今どき react 再入門",
+      "path": "inbox/今どき react 再入門.md"
+    },
+    {
+      "basename": "clojure-cli を入れる",
+      "path": "inbox/clojure-cli を入れる.md"
+    },
+    {
+      "basename": "raspberry_pi   音まわり",
+      "path": "inbox/raspberry_pi   音まわり.md"
+    },
+    {
+      "basename": "asdf asdf-vm にする",
+      "path": "inbox/asdf asdf-vm にする.md"
+    },
+    {
+      "basename": "blender  生成AI「Stability For Blender」を発表",
+      "path": "inbox/blender  生成AI「Stability For Blender」を発表.md"
+    },
+    {
+      "basename": "ai   最近話題になった大規模言語モデルまとめ",
+      "path": "inbox/ai   最近話題になった大規模言語モデルまとめ.md"
+    },
+    {
+      "basename": "unity  clusterワールド作成はunityを使いこなすための近道",
+      "path": "inbox/unity  clusterワールド作成はunityを使いこなすための近道.md"
+    },
+    {
+      "basename": "postgresql  インストール",
+      "path": "inbox/postgresql  インストール.md"
+    },
+    {
+      "basename": "vscode  Rails html.erb で Emmet",
+      "path": "inbox/vscode  Rails html.erb で Emmet.md"
+    },
+    {
+      "basename": "ドットnewのサービスが流行ってるらしい",
+      "path": "inbox/ドットnewのサービスが流行ってるらしい.md"
+    },
+    {
+      "basename": "canva 今、やっぱりすごい",
+      "path": "inbox/canva 今、やっぱりすごい.md"
+    },
+    {
+      "basename": "ai  Talk-llama",
+      "path": "inbox/ai  Talk-llama.md"
+    },
+    {
+      "basename": "ai  RWKV がすごいらしい",
+      "path": "inbox/ai  RWKV がすごいらしい.md"
+    },
+    {
+      "basename": "Drawing 2023-02-28 14.27.28.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-28 14.27.28.excalidraw.md"
+    },
+    {
+      "basename": "gtfs-relationship 2023-02-20 10.34.16.excalidraw",
+      "path": "Excalidraw/gtfs-relationship 2023-02-20 10.34.16.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 09.07.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 09.07.50.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-10 13.25.08.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-10 13.25.08.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 17.48.38.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 17.48.38.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-01-31 11.46.29.excalidraw",
+      "path": "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-02-06 13.41.08.excalidraw",
+      "path": "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-03 18.02.46.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-03 18.02.46.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
+    },
+    {
+      "basename": "tonoabator 2023-02-09 14.41.30.excalidraw",
+      "path": "Excalidraw/tonoabator 2023-02-09 14.41.30.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
     }
   ],
   "omittedPaths": [],
