@@ -47,9 +47,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4139e03ff60bb72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/hhkb 手に入れた.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab8584819adf59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/alma_linux MariaDB を入れる.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1526bcc0a0bc1cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/rails データベースを元に戻したい.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ef0f1a0660729d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vscode",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/mysql  今日の日付のものを抽出するには.md",
+                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/mysql  今日の日付のものを抽出するには.md"
+                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md"
               }
             }
           }
@@ -198,8 +250,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "596c8400249ffeca",
+  "active": "34ef0f1a0660729d",
   "lastOpenFiles": [
+    "inbox/rails データベースを元に戻したい.md",
+    "inbox/rails7 クレデンシャルな秘匿情報周り.md",
+    "inbox/alma_linux MariaDB を入れる.md",
+    "inbox/hhkb 手に入れた.md",
+    "inbox/Google One で VPN が使えるようになったときた.md",
+    "inbox/mysql  今日の日付のものを抽出するには.md",
     "pictures/Pasted image 20230419233310.png",
     "pictures/Pasted image 20230419232745.png",
     "pictures/Pasted image 20230419232552.png",
@@ -207,13 +265,11 @@
     "pictures/Pasted image 20230419231903.png",
     "inbox/clojure を今の mac の VSCode で動かす.md",
     "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
-    "inbox/mysql  今日の日付のものを抽出するには.md",
     "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
     "inbox/ChatGTP を最強の学習ツールにするんだって.md",
     "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md",
     "inbox/aws アカウント作った.md",
     "inbox/vscode 全角が見えるようにする.md",
-    "inbox/hhkb 手に入れた.md",
     "inbox/vscode Prettier の設定.md",
     "pictures/スクリーンショット 2023-04-21 9.51.01.png",
     "pictures/Pasted image 20230421094931.png",
@@ -221,7 +277,6 @@
     "pictures/Pasted image 20230421092017.png",
     "inbox/vscode Tab Indent 設定.md",
     "pictures/Pasted image 20230421091049.png",
-    "pictures/Pasted image 20230421090003.png",
     "inbox/GTFS データのまとめ.md",
     "inbox/js M2 に移行したら Puppeteer が動かなくなった.md",
     "inbox/rails CarrierWave で url にドメインをつけたい.md",
@@ -232,9 +287,6 @@
     "inbox/ai  RWKV がすごいらしい.md",
     "journals/2021-12-16.md",
     "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md",
-    "inbox/ai  Pickaxe で無料のGPT-4.md",
-    "inbox/ai  ChatGPT4 を Free で使う.md",
-    "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md",
-    "inbox/aws  個人用 AWS の設定.md"
+    "inbox/ai  Pickaxe で無料のGPT-4.md"
   ]
 }
