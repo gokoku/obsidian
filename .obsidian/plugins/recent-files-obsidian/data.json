@@ -1,36 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "rails7 クレデンシャルな秘匿情報周り",
-      "path": "inbox/rails7 クレデンシャルな秘匿情報周り.md"
+      "basename": "React Hero Setup a new React application with Vite + TypeScript",
+      "path": "inbox/React Hero Setup a new React application with Vite + TypeScript.md"
     },
     {
-      "basename": "rails データベースを元に戻したい",
-      "path": "inbox/rails データベースを元に戻したい.md"
-    },
-    {
-      "basename": "alma_linux MariaDB を入れる",
-      "path": "inbox/alma_linux MariaDB を入れる.md"
-    },
-    {
-      "basename": "hhkb 手に入れた",
-      "path": "inbox/hhkb 手に入れた.md"
-    },
-    {
-      "basename": "Google One で VPN が使えるようになったときた",
-      "path": "inbox/Google One で VPN が使えるようになったときた.md"
-    },
-    {
-      "basename": "mysql  今日の日付のものを抽出するには",
-      "path": "inbox/mysql  今日の日付のものを抽出するには.md"
+      "basename": "yahabus_calendar_date 2023-04-21 11.43.11.excalidraw",
+      "path": "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md"
     },
     {
       "basename": "Drawing 2023-04-21 13.00.50.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md"
     },
     {
-      "basename": "yahabus_calendar_date 2023-04-21 11.43.11.excalidraw",
-      "path": "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md"
+      "basename": "mysql  今日の日付のものを抽出するには",
+      "path": "inbox/mysql  今日の日付のものを抽出するには.md"
+    },
+    {
+      "basename": "hhkb 手に入れた",
+      "path": "inbox/hhkb 手に入れた.md"
+    },
+    {
+      "basename": "alma_linux MariaDB を入れる",
+      "path": "inbox/alma_linux MariaDB を入れる.md"
+    },
+    {
+      "basename": "rails データベースを元に戻したい",
+      "path": "inbox/rails データベースを元に戻したい.md"
+    },
+    {
+      "basename": "rails7 クレデンシャルな秘匿情報周り",
+      "path": "inbox/rails7 クレデンシャルな秘匿情報周り.md"
+    },
+    {
+      "basename": "mysql  SSH のポートフォワーディングで MySQL に接続する",
+      "path": "inbox/mysql  SSH のポートフォワーディングで MySQL に接続する.md"
+    },
+    {
+      "basename": "ai  ChatGPT に英語の先生になってもらう",
+      "path": "inbox/ai  ChatGPT に英語の先生になってもらう.md"
+    },
+    {
+      "basename": "Sequel Ace の ssh_config",
+      "path": "inbox/Sequel Ace の ssh_config.md"
+    },
+    {
+      "basename": "mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい",
+      "path": "inbox/mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい.md"
+    },
+    {
+      "basename": "vscode Typescript ESlint + Prettier のセットアップ記事",
+      "path": "inbox/vscode Typescript ESlint + Prettier のセットアップ記事.md"
+    },
+    {
+      "basename": "Google One で VPN が使えるようになったときた",
+      "path": "inbox/Google One で VPN が使えるようになったときた.md"
     },
     {
       "basename": "ChatGTP を最強の学習ツールにするんだって",
@@ -175,30 +199,6 @@
     {
       "basename": "yahabus phase2 image 2023-04-04 15.57.27.excalidraw",
       "path": "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md"
-    },
-    {
-      "basename": "tono_ai 2023-01-26 12.59.14.excalidraw",
-      "path": "Excalidraw/tono_ai 2023-01-26 12.59.14.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-04-07 18.30.55.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-07 18.30.55.excalidraw.md"
-    },
-    {
-      "basename": "trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw",
-      "path": "Excalidraw/trips-shapes-stop_times 2023-03-24 14.07.46.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-04-11 18.09.09.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-11 18.09.09.excalidraw.md"
-    },
-    {
-      "basename": "矢巾やはばすのGTFS解析",
-      "path": "inbox/矢巾やはばすのGTFS解析.md"
-    },
-    {
-      "basename": "launchctl Puppeteer で Garoon の通知が何個あるか通知センターで出す",
-      "path": "inbox/launchctl Puppeteer で Garoon の通知が何個あるか通知センターで出す.md"
     }
   ],
   "omittedPaths": [],

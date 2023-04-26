@@ -4,104 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53289f2347508449",
+        "id": "5ab74395787ec36d",
         "type": "tabs",
         "children": [
           {
-            "id": "477037d7969538ee",
+            "id": "bdfc450860e22e44",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "a7e4b79b6f7b342d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f0ffa60e0a745222",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "596c8400249ffeca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/mysql  今日の日付のものを抽出するには.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4139e03ff60bb72a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/hhkb 手に入れた.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cab8584819adf59a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/alma_linux MariaDB を入れる.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1526bcc0a0bc1cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/rails データベースを元に戻したい.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34ef0f1a0660729d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sequel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,13 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/rails7 クレデンシャルな秘匿情報周り.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -250,43 +161,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34ef0f1a0660729d",
+  "active": "bdfc450860e22e44",
   "lastOpenFiles": [
+    "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
+    "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
+    "inbox/mysql  今日の日付のものを抽出するには.md",
+    "inbox/hhkb 手に入れた.md",
+    "inbox/alma_linux MariaDB を入れる.md",
     "inbox/rails データベースを元に戻したい.md",
     "inbox/rails7 クレデンシャルな秘匿情報周り.md",
-    "inbox/alma_linux MariaDB を入れる.md",
-    "inbox/hhkb 手に入れた.md",
+    "inbox/mysql  SSH のポートフォワーディングで MySQL に接続する.md",
+    "inbox/ai  ChatGPT に英語の先生になってもらう.md",
+    "pictures/Pasted image 20230426130703.png",
+    "pictures/Pasted image 20230426130541.png",
+    "inbox/Sequel Ace の ssh_config.md",
+    "inbox/mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい.md",
+    "inbox/vscode Typescript ESlint + Prettier のセットアップ記事.md",
+    "pictures/Pasted image 20230425101437.png",
+    "inbox/React Hero Setup React + TypeScript application with a design system — Material UI.md",
+    "pictures/Pasted image 20230425084701.png",
     "inbox/Google One で VPN が使えるようになったときた.md",
-    "inbox/mysql  今日の日付のものを抽出するには.md",
     "pictures/Pasted image 20230419233310.png",
     "pictures/Pasted image 20230419232745.png",
     "pictures/Pasted image 20230419232552.png",
     "pictures/Pasted image 20230419232402.png",
     "pictures/Pasted image 20230419231903.png",
     "inbox/clojure を今の mac の VSCode で動かす.md",
-    "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
-    "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
     "inbox/ChatGTP を最強の学習ツールにするんだって.md",
     "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md",
     "inbox/aws アカウント作った.md",
     "inbox/vscode 全角が見えるようにする.md",
     "inbox/vscode Prettier の設定.md",
     "pictures/スクリーンショット 2023-04-21 9.51.01.png",
-    "pictures/Pasted image 20230421094931.png",
-    "pictures/Pasted image 20230421093339.png",
-    "pictures/Pasted image 20230421092017.png",
     "inbox/vscode Tab Indent 設定.md",
-    "pictures/Pasted image 20230421091049.png",
     "inbox/GTFS データのまとめ.md",
     "inbox/js M2 に移行したら Puppeteer が動かなくなった.md",
-    "inbox/rails CarrierWave で url にドメインをつけたい.md",
-    "inbox/css  Canvas要素をA4サイズにマッピングしたい.md",
-    "inbox/chrome ChatHub Extention.md",
-    "inbox/ai ChatGPT の深津氏のメソッド.md",
-    "inbox/ai ChatGPT の IDE Cursor.md",
-    "inbox/ai  RWKV がすごいらしい.md",
-    "journals/2021-12-16.md",
-    "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md",
-    "inbox/ai  Pickaxe で無料のGPT-4.md"
+    "inbox/rails CarrierWave で url にドメインをつけたい.md"
   ]
 }
