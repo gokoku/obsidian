@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "js  Canvas の画像にドロップシャドウをつける",
+      "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
+    },
+    {
       "basename": "React Hero Setup a new React application with Vite + TypeScript",
       "path": "inbox/React Hero Setup a new React application with Vite + TypeScript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "yahabus-pherse-1 2023-04-04 15.11.44.excalidraw",
       "path": "Excalidraw/yahabus-pherse-1 2023-04-04 15.11.44.excalidraw.md"
-    },
-    {
-      "basename": "yahabus phase2 image 2023-04-04 15.57.27.excalidraw",
-      "path": "Excalidraw/yahabus phase2 image 2023-04-04 15.57.27.excalidraw.md"
     }
   ],
   "omittedPaths": [],

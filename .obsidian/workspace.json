@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c903abbf66f90a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sequel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
+              }
             }
           }
         ],
@@ -161,8 +178,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdfc450860e22e44",
+  "active": "c903abbf66f90a56",
   "lastOpenFiles": [
+    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
     "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
     "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
     "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
