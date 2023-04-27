@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36360ba09bef8da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md",
+                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
+                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
               }
             }
           }
@@ -178,9 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c903abbf66f90a56",
+  "active": "36360ba09bef8da0",
   "lastOpenFiles": [
     "inbox/js  Canvas の画像にドロップシャドウをつける.md",
+    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
     "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
     "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
     "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
@@ -214,7 +228,6 @@
     "pictures/スクリーンショット 2023-04-21 9.51.01.png",
     "inbox/vscode Tab Indent 設定.md",
     "inbox/GTFS データのまとめ.md",
-    "inbox/js M2 に移行したら Puppeteer が動かなくなった.md",
-    "inbox/rails CarrierWave で url にドメインをつけたい.md"
+    "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
   ]
 }
