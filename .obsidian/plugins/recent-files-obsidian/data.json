@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "clojure  VScode のフォーマッター",
+      "path": "inbox/clojure  VScode のフォーマッター.md"
+    },
+    {
       "basename": "clip_studio 左右反転のショートカットを当てる",
       "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
       "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-03 18.02.46.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-03 18.02.46.excalidraw.md"
     }
   ],
   "omittedPaths": [],
