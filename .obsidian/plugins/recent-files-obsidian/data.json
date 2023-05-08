@@ -69,6 +69,14 @@
       "path": "inbox/rails Cropper.js ライブラリを使う.md"
     },
     {
+      "basename": "clojure  VScode のフォーマッター",
+      "path": "inbox/clojure  VScode のフォーマッター.md"
+    },
+    {
+      "basename": "clip_studio 左右反転のショートカットを当てる",
+      "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
+    },
+    {
       "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
       "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
     },
@@ -199,6 +207,66 @@
     {
       "basename": "aws  個人用 AWS の設定",
       "path": "inbox/aws  個人用 AWS の設定.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 09.07.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 09.07.50.excalidraw.md"
+    },
+    {
+      "basename": "gtfs-relationship 2023-02-20 10.34.16.excalidraw",
+      "path": "Excalidraw/gtfs-relationship 2023-02-20 10.34.16.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-28 14.27.28.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-28 14.27.28.excalidraw.md"
+    },
+    {
+      "basename": "yahaba-gtfs-やはばす 2023-03-02 16.28.00.excalidraw",
+      "path": "Excalidraw/yahaba-gtfs-やはばす 2023-03-02 16.28.00.excalidraw.md"
+    },
+    {
+      "basename": "やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw",
+      "path": "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md"
+    },
+    {
+      "basename": "GTFS_table 2023-03-03 18.02.47.excalidraw",
+      "path": "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md"
+    },
+    {
+      "basename": "gtfs_ER図 2023-03-09 17.15.57.excalidraw",
+      "path": "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md"
+    },
+    {
+      "basename": "yahabus 2023-03-01 17.45.12.excalidraw",
+      "path": "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md"
+    },
+    {
+      "basename": "GTFS function 2023-03-24 14.44.05.excalidraw",
+      "path": "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md"
+    },
+    {
+      "basename": "tonoabator 2023-02-09 14.41.30.excalidraw",
+      "path": "Excalidraw/tonoabator 2023-02-09 14.41.30.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-01-31 11.46.29.excalidraw",
+      "path": "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-02-06 13.41.08.excalidraw",
+      "path": "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-10 13.25.08.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-10 13.25.08.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 17.48.38.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 17.48.38.excalidraw.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
     }
   ],
   "omittedPaths": [],

@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,6 +279,12 @@
   },
   "active": "70b2107edd9fc795",
   "lastOpenFiles": [
+    "pictures/スクリーンショット 2023-04-27 23.10.31.png",
+    "pictures/Pasted image 20230427231340.png",
+    "pictures/Pasted image 20230427230506.png",
+    "pictures/Pasted image 20230427230401.png",
+    "inbox/clojure  VScode のフォーマッター.md",
+    "inbox/clip_studio 左右反転のショートカットを当てる.md",
     "inbox/clojure  Java のオブジェクトを使う.md",
     "inbox/clojure loop と recur による再帰の使い方.md",
     "inbox/clojure  do の副作用の使い方.md",
@@ -304,16 +310,10 @@
     "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
     "inbox/mysql  今日の日付のものを抽出するには.md",
     "inbox/hhkb 手に入れた.md",
-    "inbox/alma_linux MariaDB を入れる.md",
-    "inbox/rails データベースを元に戻したい.md",
-    "inbox/rails7 クレデンシャルな秘匿情報周り.md",
     "pictures/Pasted image 20230426130703.png",
     "pictures/Pasted image 20230426130541.png",
     "pictures/Pasted image 20230425101437.png",
     "pictures/Pasted image 20230425084701.png",
-    "pictures/Pasted image 20230419233310.png",
-    "pictures/Pasted image 20230419232745.png",
-    "pictures/Pasted image 20230419232552.png",
-    "pictures/Pasted image 20230419232402.png"
+    "pictures/Pasted image 20230419233310.png"
   ]
 }
