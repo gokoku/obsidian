@@ -4,123 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab74395787ec36d",
+        "id": "786dad5a3958affd",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfc450860e22e44",
+            "id": "b70b923c7350715d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c903abbf66f90a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36360ba09bef8da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/js cropper.js の使い方.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c1b5372dfee626f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/rails. JS でCORSが出た.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8131023cceb567ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/alma_linux  日本語が表示されないのを治す.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52d365179b6d4445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clojure を今の mac の VSCode で動かす.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49b1e1160aee4c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clojure  Java のオブジェクトを使う.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad95da4fb908c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clojure  do の副作用の使い方.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70b2107edd9fc795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 285.5
   },
   "right": {
     "id": "b5f34a9d8b63b277",
@@ -211,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -277,23 +169,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70b2107edd9fc795",
+  "active": "b70b923c7350715d",
   "lastOpenFiles": [
+    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
+    "inbox/js cropper.js の使い方.md",
+    "inbox/rails. JS でCORSが出た.md",
+    "inbox/alma_linux  日本語が表示されないのを治す.md",
+    "inbox/clojure を今の mac の VSCode で動かす.md",
+    "inbox/clojure  Java のオブジェクトを使う.md",
+    "inbox/clojure  do の副作用の使い方.md",
+    "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md",
     "pictures/スクリーンショット 2023-04-27 23.10.31.png",
     "pictures/Pasted image 20230427231340.png",
     "pictures/Pasted image 20230427230506.png",
     "pictures/Pasted image 20230427230401.png",
     "inbox/clojure  VScode のフォーマッター.md",
     "inbox/clip_studio 左右反転のショートカットを当てる.md",
-    "inbox/clojure  Java のオブジェクトを使う.md",
     "inbox/clojure loop と recur による再帰の使い方.md",
-    "inbox/clojure  do の副作用の使い方.md",
-    "inbox/clojure を今の mac の VSCode で動かす.md",
     "inbox/iTerm2 のテーマが可愛すぎる.md",
     "inbox/iterm2 Quit で問答無用で終わって欲しい.md",
     "pictures/Pasted image 20230501174257.png",
-    "inbox/alma_linux  日本語が表示されないのを治す.md",
-    "inbox/rails. JS でCORSが出た.md",
     "pictures/Pasted image 20230501144624.png",
     "inbox/js   ガルーン Garoon の検証.md",
     "inbox/rails  Devise-token-auth で API を使えるようにするには.md",
@@ -301,10 +196,8 @@
     "inbox/obs  ライブ配信でOBS を使う.md",
     "inbox/nginx  RTMP モジュール込みで mac に立てる.md",
     "inbox/vscode Pyhon だけindent=4にしたいのだが.md",
-    "inbox/js cropper.js の使い方.md",
     "inbox/rails Cropper.js ライブラリを使う.md",
     "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
-    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
     "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
     "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
     "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
@@ -313,7 +206,6 @@
     "pictures/Pasted image 20230426130703.png",
     "pictures/Pasted image 20230426130541.png",
     "pictures/Pasted image 20230425101437.png",
-    "pictures/Pasted image 20230425084701.png",
-    "pictures/Pasted image 20230419233310.png"
+    "pictures/Pasted image 20230425084701.png"
   ]
 }
