@@ -7,7 +7,7 @@ type: note
 ---
 2023-03-23  09:31
 
-# loop  Microsoft Loop は Notion に変わろうとしている?
+# loop  Microsoft Loop は  Notion に変わろうとしている?
 
 ![[Pasted image 20230323093143.png]]
 

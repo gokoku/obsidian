@@ -108,3 +108,16 @@ Access-Control-Expose-Headers: Access-Control-Allow-Origin とちゃんと応答
 
 -H は Header を追加するやつだった、Origin : https://ogasta.pmorioka.com を付加してs3リソースの Response Header Body を出力する。
 
+curl の -i は? レスへポンスのHEADER をつけてくれる。
+
+
+# chrome で見る
+
+devtool のネットワーク で更新する。
+
+ヘッダーで
+![[Pasted image 20230501144624.png]]
+
+これと当たりがついた。
+
+ヘッダーの中のレスポンスヘッダーを見るらしい。

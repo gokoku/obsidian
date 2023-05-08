@@ -50,6 +50,14 @@ $ lein --version
 Leiningen 2.9.9 on Java 18.0.2 OpenJDK 64-Bit Server VM
 ```
 
+JAVAがないとあかん。
+
+```shell
+$ asdf plugin add java https://github.com/halcyon/asdf-java.git
+$ asdf install java openjdk-20.0.1
+$ asdf global java openjdk-20.0.1
+```
+
 
 
 vscode の extention. Calva
