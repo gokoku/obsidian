@@ -11,11 +11,56 @@
             "id": "b70b923c7350715d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8d95245a17e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/python asdf で入れる.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00ec4a0d4d439600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/遠野アバターのまとめ Node-RED.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd1d764165ec77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notion",
+                "query": "node-red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
+              }
             }
           }
         ],
@@ -169,8 +217,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b70b923c7350715d",
+  "active": "9cd1d764165ec77c",
   "lastOpenFiles": [
+    "inbox/遠野アバターのまとめ Node-RED.md",
+    "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
+    "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md",
+    "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
+    "inbox/clip_studio 年間契約完了.md",
+    "pictures/Pasted image 20230510084316.png",
+    "inbox/python asdf で入れる.md",
+    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
+    "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
     "inbox/js  Canvas の画像にドロップシャドウをつける.md",
     "inbox/js cropper.js の使い方.md",
     "inbox/rails. JS でCORSが出た.md",
@@ -195,17 +252,8 @@
     "inbox/rails 7 で アイコンフォントを使う.md",
     "inbox/obs  ライブ配信でOBS を使う.md",
     "inbox/nginx  RTMP モジュール込みで mac に立てる.md",
-    "inbox/vscode Pyhon だけindent=4にしたいのだが.md",
-    "inbox/rails Cropper.js ライブラリを使う.md",
-    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
-    "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
-    "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md",
-    "inbox/mysql  今日の日付のものを抽出するには.md",
-    "inbox/hhkb 手に入れた.md",
     "pictures/Pasted image 20230426130703.png",
     "pictures/Pasted image 20230426130541.png",
-    "pictures/Pasted image 20230425101437.png",
-    "pictures/Pasted image 20230425084701.png"
+    "pictures/Pasted image 20230425101437.png"
   ]
 }

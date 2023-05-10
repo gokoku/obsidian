@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "ai  Mac の ChatGPT クライアントアプリ",
+      "path": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
+    },
+    {
+      "basename": "遠野アバターのまとめ Node-RED",
+      "path": "inbox/遠野アバターのまとめ Node-RED.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
+    },
+    {
+      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
+      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
+    },
+    {
+      "basename": "clip_studio 年間契約完了",
+      "path": "inbox/clip_studio 年間契約完了.md"
+    },
+    {
+      "basename": "python asdf で入れる",
+      "path": "inbox/python asdf で入れる.md"
+    },
+    {
+      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
+      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
+    },
+    {
+      "basename": "proxy 2023-05-08 16.58.21.excalidraw",
+      "path": "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md"
+    },
+    {
       "basename": "js  Canvas の画像にドロップシャドウをつける",
       "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
     },
@@ -71,10 +103,6 @@
     {
       "basename": "rails Cropper.js ライブラリを使う",
       "path": "inbox/rails Cropper.js ライブラリを使う.md"
-    },
-    {
-      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
-      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
     },
     {
       "basename": "React Hero Setup a new React application with Vite + TypeScript",
@@ -171,34 +199,6 @@
     {
       "basename": "css  Canvas要素をA4サイズにマッピングしたい",
       "path": "inbox/css  Canvas要素をA4サイズにマッピングしたい.md"
-    },
-    {
-      "basename": "ai ChatGPT の深津氏のメソッド",
-      "path": "inbox/ai ChatGPT の深津氏のメソッド.md"
-    },
-    {
-      "basename": "ai ChatGPT の IDE Cursor",
-      "path": "inbox/ai ChatGPT の IDE Cursor.md"
-    },
-    {
-      "basename": "ai  RWKV がすごいらしい",
-      "path": "inbox/ai  RWKV がすごいらしい.md"
-    },
-    {
-      "basename": "2021-12-16",
-      "path": "journals/2021-12-16.md"
-    },
-    {
-      "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
-    },
-    {
-      "basename": "aws  個人用 AWS の設定",
-      "path": "inbox/aws  個人用 AWS の設定.md"
     }
   ],
   "omittedPaths": [],
