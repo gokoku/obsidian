@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "786dad5a3958affd",
+        "id": "394ddbb10ada6c01",
         "type": "tabs",
         "children": [
           {
-            "id": "b70b923c7350715d",
+            "id": "3d8278b36681c6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce8d95245a17e8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/python asdf で入れる.md",
+                "file": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "00ec4a0d4d439600",
+            "id": "64e1e85df0f6a201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/遠野アバターのまとめ Node-RED.md",
+                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +34,12 @@
             }
           },
           {
-            "id": "9cd1d764165ec77c",
+            "id": "01e39eace128f6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
+                "file": "inbox/wordpress  Query Monitor プラグイン.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +92,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node-red",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
+                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
+                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
               }
             }
           }
@@ -217,43 +204,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cd1d764165ec77c",
+  "active": "64e1e85df0f6a201",
   "lastOpenFiles": [
+    "pictures/Pasted image 20230516172943.png",
+    "inbox/wordpress  Query Monitor プラグイン.md",
+    "inbox/php VScode での開発環境.md",
+    "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
+    "inbox/design  アイコンを探す.md",
+    "pictures/Pasted image 20230516163956.png",
+    "pictures/Pasted image 20230516140110.png",
+    "inbox/elixir Livebook でWebアプリにデプロイ?.md",
+    "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md",
+    "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md",
+    "inbox/Elixir School. Mix.md",
+    "inbox/blender  テクスチャのほぼリアルタイム描き.md",
+    "pictures/Pasted image 20230516110102.png",
+    "pictures/Pasted image 20230516105902.png",
+    "inbox/VoiceVox を使ってみる.md",
+    "inbox/遠野アバターで動画に音声をつける.md",
+    "pictures/Pasted image 20230516085247.png",
+    "pictures/Pasted image 20230516085013.png",
+    "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md",
+    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
+    "inbox/python asdf で入れる.md",
     "inbox/遠野アバターのまとめ Node-RED.md",
     "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
+    "pictures/Pasted image 20230511112829.png",
+    "pictures/Pasted image 20230511110430.png",
+    "pictures/Pasted image 20230511110128.png",
+    "pictures/Pasted image 20230511110025.png",
     "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md",
     "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
     "inbox/clip_studio 年間契約完了.md",
-    "pictures/Pasted image 20230510084316.png",
-    "inbox/python asdf で入れる.md",
-    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
     "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
     "inbox/js  Canvas の画像にドロップシャドウをつける.md",
     "inbox/js cropper.js の使い方.md",
     "inbox/rails. JS でCORSが出た.md",
     "inbox/alma_linux  日本語が表示されないのを治す.md",
-    "inbox/clojure を今の mac の VSCode で動かす.md",
-    "inbox/clojure  Java のオブジェクトを使う.md",
-    "inbox/clojure  do の副作用の使い方.md",
-    "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md",
-    "pictures/スクリーンショット 2023-04-27 23.10.31.png",
-    "pictures/Pasted image 20230427231340.png",
-    "pictures/Pasted image 20230427230506.png",
-    "pictures/Pasted image 20230427230401.png",
-    "inbox/clojure  VScode のフォーマッター.md",
-    "inbox/clip_studio 左右反転のショートカットを当てる.md",
-    "inbox/clojure loop と recur による再帰の使い方.md",
-    "inbox/iTerm2 のテーマが可愛すぎる.md",
-    "inbox/iterm2 Quit で問答無用で終わって欲しい.md",
-    "pictures/Pasted image 20230501174257.png",
-    "pictures/Pasted image 20230501144624.png",
-    "inbox/js   ガルーン Garoon の検証.md",
-    "inbox/rails  Devise-token-auth で API を使えるようにするには.md",
-    "inbox/rails 7 で アイコンフォントを使う.md",
-    "inbox/obs  ライブ配信でOBS を使う.md",
-    "inbox/nginx  RTMP モジュール込みで mac に立てる.md",
-    "pictures/Pasted image 20230426130703.png",
-    "pictures/Pasted image 20230426130541.png",
-    "pictures/Pasted image 20230425101437.png"
+    "inbox/clojure を今の mac の VSCode で動かす.md"
   ]
 }

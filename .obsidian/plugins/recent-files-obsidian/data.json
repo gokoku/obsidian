@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "ai  Mac の ChatGPT クライアントアプリ",
-      "path": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
+      "basename": "ai VOICEVOX を mac m2 で使ってみる",
+      "path": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
+    },
+    {
+      "basename": "wordpress  Query Monitor プラグイン",
+      "path": "inbox/wordpress  Query Monitor プラグイン.md"
+    },
+    {
+      "basename": "php VScode での開発環境",
+      "path": "inbox/php VScode での開発環境.md"
+    },
+    {
+      "basename": "design  アイコンを探す",
+      "path": "inbox/design  アイコンを探す.md"
+    },
+    {
+      "basename": "elixir Livebook でWebアプリにデプロイ?",
+      "path": "inbox/elixir Livebook でWebアプリにデプロイ?.md"
+    },
+    {
+      "basename": "python   VOICEVOX CORE　　VOICEVOX の音声合成コア",
+      "path": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md"
+    },
+    {
+      "basename": "ai  風邪ひいて寝込んでるうちにAIがすごいことに?!",
+      "path": "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md"
+    },
+    {
+      "basename": "Elixir School. Mix",
+      "path": "inbox/Elixir School. Mix.md"
+    },
+    {
+      "basename": "blender  テクスチャのほぼリアルタイム描き",
+      "path": "inbox/blender  テクスチャのほぼリアルタイム描き.md"
+    },
+    {
+      "basename": "VoiceVox を使ってみる",
+      "path": "inbox/VoiceVox を使ってみる.md"
+    },
+    {
+      "basename": "遠野アバターで動画に音声をつける",
+      "path": "inbox/遠野アバターで動画に音声をつける.md"
+    },
+    {
+      "basename": "document 2023-05-11 15.24.22.excalidraw",
+      "path": "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md"
+    },
+    {
+      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
+      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
+    },
+    {
+      "basename": "python asdf で入れる",
+      "path": "inbox/python asdf で入れる.md"
     },
     {
       "basename": "遠野アバターのまとめ Node-RED",
       "path": "inbox/遠野アバターのまとめ Node-RED.md"
+    },
+    {
+      "basename": "ai  Mac の ChatGPT クライアントアプリ",
+      "path": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
     },
     {
       "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
@@ -19,14 +75,6 @@
     {
       "basename": "clip_studio 年間契約完了",
       "path": "inbox/clip_studio 年間契約完了.md"
-    },
-    {
-      "basename": "python asdf で入れる",
-      "path": "inbox/python asdf で入れる.md"
-    },
-    {
-      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
-      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
     },
     {
       "basename": "proxy 2023-05-08 16.58.21.excalidraw",
@@ -151,54 +199,6 @@
     {
       "basename": "mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい",
       "path": "inbox/mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい.md"
-    },
-    {
-      "basename": "vscode Typescript ESlint + Prettier のセットアップ記事",
-      "path": "inbox/vscode Typescript ESlint + Prettier のセットアップ記事.md"
-    },
-    {
-      "basename": "Google One で VPN が使えるようになったときた",
-      "path": "inbox/Google One で VPN が使えるようになったときた.md"
-    },
-    {
-      "basename": "ChatGTP を最強の学習ツールにするんだって",
-      "path": "inbox/ChatGTP を最強の学習ツールにするんだって.md"
-    },
-    {
-      "basename": "mysql 8 を入れてrootにゆるゆるパスワードを入れる",
-      "path": "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md"
-    },
-    {
-      "basename": "aws アカウント作った",
-      "path": "inbox/aws アカウント作った.md"
-    },
-    {
-      "basename": "vscode 全角が見えるようにする",
-      "path": "inbox/vscode 全角が見えるようにする.md"
-    },
-    {
-      "basename": "vscode Prettier の設定",
-      "path": "inbox/vscode Prettier の設定.md"
-    },
-    {
-      "basename": "vscode Tab Indent 設定",
-      "path": "inbox/vscode Tab Indent 設定.md"
-    },
-    {
-      "basename": "GTFS データのまとめ",
-      "path": "inbox/GTFS データのまとめ.md"
-    },
-    {
-      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
-      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
-    },
-    {
-      "basename": "rails CarrierWave で url にドメインをつけたい",
-      "path": "inbox/rails CarrierWave で url にドメインをつけたい.md"
-    },
-    {
-      "basename": "css  Canvas要素をA4サイズにマッピングしたい",
-      "path": "inbox/css  Canvas要素をA4サイズにマッピングしたい.md"
     }
   ],
   "omittedPaths": [],
