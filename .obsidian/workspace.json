@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md",
+                "file": "inbox/clojure  Clojure 事始め.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clojure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md",
+                "file": "inbox/clojure  Clojure 事始め.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md"
+                "file": "inbox/clojure  Clojure 事始め.md"
               }
             }
           }
@@ -238,8 +238,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d93c4e9551e43fbd",
+  "active": "f82923134f806efb",
   "lastOpenFiles": [
+    "inbox/emacs Clojure 再入門(何度目?).md",
+    "inbox/ai ChatGPT で出来る出力フォーマット.md",
     "pictures/Pasted image 20230516172943.png",
     "pictures/Pasted image 20230516163956.png",
     "pictures/Pasted image 20230516140110.png",
@@ -250,7 +252,6 @@
     "pictures/Pasted image 20230511112829.png",
     "pictures/Pasted image 20230511110430.png",
     "pictures/Pasted image 20230511110128.png",
-    "pictures/Pasted image 20230511110025.png",
     "inbox/wordpress  Query Monitor プラグイン.md",
     "inbox/vscode Pyhon だけindent=4にしたいのだが.md",
     "inbox/python asdf で入れる.md",
@@ -269,7 +270,6 @@
     "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
     "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md",
     "inbox/clojure  VScode のフォーマッター.md",
-    "inbox/ai ChatGPT で出来る出力フォーマット.md",
     "inbox/clip_studio 左右反転のショートカットを当てる.md",
     "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
     "inbox/js  Canvas の画像にドロップシャドウをつける.md",
