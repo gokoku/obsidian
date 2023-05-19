@@ -7,18 +7,158 @@
     {
       "basename": "clojure  VScode のフォーマッター",
       "path": "inbox/clojure  VScode のフォーマッター.md"
+    }
+    {
+      "basename": "ai VOICEVOX を mac m2 で使ってみる",
+      "path": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
     },
     {
-      "basename": "clip_studio 左右反転のショートカットを当てる",
-      "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
+      "basename": "wordpress  Query Monitor プラグイン",
+      "path": "inbox/wordpress  Query Monitor プラグイン.md"
+    },
+    {
+      "basename": "php VScode での開発環境",
+      "path": "inbox/php VScode での開発環境.md"
+    },
+    {
+      "basename": "design  アイコンを探す",
+      "path": "inbox/design  アイコンを探す.md"
+    },
+    {
+      "basename": "elixir Livebook でWebアプリにデプロイ?",
+      "path": "inbox/elixir Livebook でWebアプリにデプロイ?.md"
+    },
+    {
+      "basename": "python   VOICEVOX CORE　　VOICEVOX の音声合成コア",
+      "path": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md"
+    },
+    {
+      "basename": "ai  風邪ひいて寝込んでるうちにAIがすごいことに?!",
+      "path": "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md"
+    },
+    {
+      "basename": "Elixir School. Mix",
+      "path": "inbox/Elixir School. Mix.md"
+    },
+    {
+      "basename": "blender  テクスチャのほぼリアルタイム描き",
+      "path": "inbox/blender  テクスチャのほぼリアルタイム描き.md"
+    },
+    {
+      "basename": "VoiceVox を使ってみる",
+      "path": "inbox/VoiceVox を使ってみる.md"
+    },
+    {
+      "basename": "遠野アバターで動画に音声をつける",
+      "path": "inbox/遠野アバターで動画に音声をつける.md"
+    },
+    {
+      "basename": "document 2023-05-11 15.24.22.excalidraw",
+      "path": "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md"
     },
     {
       "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
       "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
     },
     {
+      "basename": "python asdf で入れる",
+      "path": "inbox/python asdf で入れる.md"
+    },
+    {
+      "basename": "遠野アバターのまとめ Node-RED",
+      "path": "inbox/遠野アバターのまとめ Node-RED.md"
+    },
+    {
+      "basename": "ai  Mac の ChatGPT クライアントアプリ",
+      "path": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
+    },
+    {
+      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
+      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
+    },
+    {
+      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
+      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
+    },
+    {
+      "basename": "clip_studio 年間契約完了",
+      "path": "inbox/clip_studio 年間契約完了.md"
+    },
+    {
+      "basename": "proxy 2023-05-08 16.58.21.excalidraw",
+      "path": "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md"
+    },
+    {
       "basename": "js  Canvas の画像にドロップシャドウをつける",
       "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
+    },
+    {
+      "basename": "js cropper.js の使い方",
+      "path": "inbox/js cropper.js の使い方.md"
+    },
+    {
+      "basename": "rails. JS でCORSが出た",
+      "path": "inbox/rails. JS でCORSが出た.md"
+    },
+    {
+      "basename": "alma_linux  日本語が表示されないのを治す",
+      "path": "inbox/alma_linux  日本語が表示されないのを治す.md"
+    },
+    {
+      "basename": "clojure を今の mac の VSCode で動かす",
+      "path": "inbox/clojure を今の mac の VSCode で動かす.md"
+    },
+    {
+      "basename": "clojure  Java のオブジェクトを使う",
+      "path": "inbox/clojure  Java のオブジェクトを使う.md"
+    },
+    {
+      "basename": "clojure  do の副作用の使い方",
+      "path": "inbox/clojure  do の副作用の使い方.md"
+    },
+    {
+      "basename": "loop  Microsoft Loop は Notion に変わろうとしている?",
+      "path": "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md"
+    },
+    {
+      "basename": "clojure loop と recur による再帰の使い方",
+      "path": "inbox/clojure loop と recur による再帰の使い方.md"
+    },
+    {
+      "basename": "iTerm2 のテーマが可愛すぎる",
+      "path": "inbox/iTerm2 のテーマが可愛すぎる.md"
+    },
+    {
+      "basename": "iterm2 Quit で問答無用で終わって欲しい",
+      "path": "inbox/iterm2 Quit で問答無用で終わって欲しい.md"
+    },
+    {
+      "basename": "js   ガルーン Garoon の検証",
+      "path": "inbox/js   ガルーン Garoon の検証.md"
+    },
+    {
+      "basename": "rails  Devise-token-auth で API を使えるようにするには",
+      "path": "inbox/rails  Devise-token-auth で API を使えるようにするには.md"
+    },
+    {
+      "basename": "rails 7 で アイコンフォントを使う",
+      "path": "inbox/rails 7 で アイコンフォントを使う.md"
+    },
+    {
+      "basename": "obs  ライブ配信でOBS を使う",
+      "path": "inbox/obs  ライブ配信でOBS を使う.md"
+    },
+    {
+      "basename": "nginx  RTMP モジュール込みで mac に立てる",
+      "path": "inbox/nginx  RTMP モジュール込みで mac に立てる.md"
+    },
+    {
+      "basename": "vscode Pyhon だけindent=4にしたいのだが",
+      "path": "inbox/vscode Pyhon だけindent=4にしたいのだが.md"
+    },
+    {
+      "basename": "rails Cropper.js ライブラリを使う",
+      "path": "inbox/rails Cropper.js ライブラリを使う.md"
     },
     {
       "basename": "React Hero Setup a new React application with Vite + TypeScript",

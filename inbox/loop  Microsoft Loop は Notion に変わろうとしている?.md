@@ -7,11 +7,12 @@ type: note
 ---
 2023-03-23  09:31
 
-# loop  Microsoft Loop は Notion に変わろうとしている?
+# loop  Microsoft Loop は  Notion に変わろうとしている?
 
 ![[Pasted image 20230323093143.png]]
 
 プレビュー版らしい。
+てゆーか、プレビューモードらしい。無料枠的な。
 
 共有、chatworks lineworks と同等な使い方が想定されている。
 
