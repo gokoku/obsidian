@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f82923134f806efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/clojure  VScode のフォーマッター.md",
+                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/clojure  VScode のフォーマッター.md"
+                "file": "inbox/ai ChatGPT で出来る出力フォーマット.md"
               }
             }
           }
@@ -225,10 +238,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ebe815482300c15",
+  "active": "f82923134f806efb",
   "lastOpenFiles": [
-    "inbox/clip_studio 左右反転のショートカットを当てる.md",
     "inbox/clojure  VScode のフォーマッター.md",
+    "inbox/ai ChatGPT で出来る出力フォーマット.md",
+    "inbox/clip_studio 左右反転のショートカットを当てる.md",
     "pictures/Pasted image 20230427231340.png",
     "pictures/スクリーンショット 2023-04-27 23.10.31.png",
     "pictures/Pasted image 20230427230506.png",
@@ -261,7 +275,6 @@
     "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md",
     "inbox/aws アカウント作った.md",
     "inbox/vscode 全角が見えるようにする.md",
-    "inbox/vscode Prettier の設定.md",
-    "inbox/vscode Tab Indent 設定.md"
+    "inbox/vscode Prettier の設定.md"
   ]
 }

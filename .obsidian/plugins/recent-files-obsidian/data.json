@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ai ChatGPT で出来る出力フォーマット",
+      "path": "inbox/ai ChatGPT で出来る出力フォーマット.md"
+    },
+    {
       "basename": "clojure  VScode のフォーマッター",
       "path": "inbox/clojure  VScode のフォーマッター.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tono-avator 2023-02-09 17.48.38.excalidraw",
       "path": "Excalidraw/tono-avator 2023-02-09 17.48.38.excalidraw.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
     }
   ],
   "omittedPaths": [],
