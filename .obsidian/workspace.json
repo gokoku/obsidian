@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "49e3ac3adfb9b310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/vscode  Rails html.erb で Emmet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rails erb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/vscode  Rails html.erb で Emmet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/vscode  Rails html.erb で Emmet.md"
+              }
             }
           }
         ],
@@ -169,8 +186,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31cb486730405c7b",
+  "active": "49e3ac3adfb9b310",
   "lastOpenFiles": [
+    "pictures/Pasted image 20230522180143.png",
+    "pictures/Pasted image 20230522180024.png",
+    "pictures/Pasted image 20230522175931.png",
+    "pictures/Pasted image 20230522175841.png",
+    "inbox/blender  テクスチャのほぼリアルタイム描き.md",
+    "Untitled.canvas",
+    "inbox/ai ChatGPT のロールプレイング設定.md",
     "inbox/ai ChatGPT で出来る出力フォーマット.md",
     "Excalidraw/Drawing 2023-05-19 15.58.48.excalidraw.md",
     "inbox/イラストレーター　アニメーター 米山舞さん.md",
@@ -188,24 +212,18 @@
     "inbox/elixir Livebook でWebアプリにデプロイ?.md",
     "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md",
     "inbox/Elixir School. Mix.md",
-    "inbox/blender  テクスチャのほぼリアルタイム描き.md",
     "pictures/Pasted image 20230516110102.png",
     "pictures/Pasted image 20230516105902.png",
     "inbox/VoiceVox を使ってみる.md",
     "inbox/遠野アバターで動画に音声をつける.md",
-    "pictures/Pasted image 20230516085247.png",
-    "pictures/Pasted image 20230516085013.png",
     "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md",
     "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
     "inbox/python asdf で入れる.md",
     "inbox/遠野アバターのまとめ Node-RED.md",
     "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
-    "pictures/Pasted image 20230511112829.png",
     "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md",
     "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
     "inbox/clip_studio 年間契約完了.md",
-    "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
-    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
-    "inbox/js cropper.js の使い方.md"
+    "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md"
   ]
 }
