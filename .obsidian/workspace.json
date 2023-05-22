@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "394ddbb10ada6c01",
+        "id": "95b1422c45e771a1",
         "type": "tabs",
         "children": [
           {
-            "id": "3d8278b36681c6aa",
+            "id": "31cb486730405c7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e1e85df0f6a201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e39eace128f6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/wordpress  Query Monitor プラグイン.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -204,17 +169,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64e1e85df0f6a201",
+  "active": "31cb486730405c7b",
   "lastOpenFiles": [
-    "pictures/Pasted image 20230516172943.png",
-    "inbox/wordpress  Query Monitor プラグイン.md",
-    "inbox/php VScode での開発環境.md",
+    "Excalidraw/Drawing 2023-05-19 15.58.48.excalidraw.md",
+    "inbox/イラストレーター　アニメーター 米山舞さん.md",
+    "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md",
     "inbox/ai VOICEVOX を mac m2 で使ってみる.md",
+    "inbox/wordpress  Query Monitor プラグイン.md",
+    "inbox/css Grid 入門.md",
+    "pictures/Pasted image 20230518150728.png",
+    "pictures/cname_20230405201119.jpg",
+    "pictures/Pasted image 20230516172943.png",
+    "inbox/php VScode での開発環境.md",
     "inbox/design  アイコンを探す.md",
     "pictures/Pasted image 20230516163956.png",
     "pictures/Pasted image 20230516140110.png",
     "inbox/elixir Livebook でWebアプリにデプロイ?.md",
-    "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md",
     "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md",
     "inbox/Elixir School. Mix.md",
     "inbox/blender  テクスチャのほぼリアルタイム描き.md",
@@ -230,17 +200,12 @@
     "inbox/遠野アバターのまとめ Node-RED.md",
     "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
     "pictures/Pasted image 20230511112829.png",
-    "pictures/Pasted image 20230511110430.png",
-    "pictures/Pasted image 20230511110128.png",
-    "pictures/Pasted image 20230511110025.png",
     "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md",
     "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md",
     "inbox/clip_studio 年間契約完了.md",
     "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
     "inbox/js  Canvas の画像にドロップシャドウをつける.md",
     "inbox/js cropper.js の使い方.md",
-    "inbox/rails. JS でCORSが出た.md",
-    "inbox/alma_linux  日本語が表示されないのを治す.md",
-    "inbox/clojure を今の mac の VSCode で動かす.md"
+    "inbox/rails. JS でCORSが出た.md"
   ]
 }

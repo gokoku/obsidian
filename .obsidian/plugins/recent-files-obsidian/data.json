@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-05-19 15.58.48.excalidraw",
+      "path": "Excalidraw/Drawing 2023-05-19 15.58.48.excalidraw.md"
+    },
+    {
+      "basename": "イラストレーター　アニメーター 米山舞さん",
+      "path": "inbox/イラストレーター　アニメーター 米山舞さん.md"
+    },
+    {
+      "basename": "python   VOICEVOX CORE　　VOICEVOX の音声合成コア",
+      "path": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md"
+    },
+    {
       "basename": "ai VOICEVOX を mac m2 で使ってみる",
       "path": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
     },
     {
       "basename": "wordpress  Query Monitor プラグイン",
       "path": "inbox/wordpress  Query Monitor プラグイン.md"
+    },
+    {
+      "basename": "css Grid 入門",
+      "path": "inbox/css Grid 入門.md"
     },
     {
       "basename": "php VScode での開発環境",
@@ -19,10 +35,6 @@
     {
       "basename": "elixir Livebook でWebアプリにデプロイ?",
       "path": "inbox/elixir Livebook でWebアプリにデプロイ?.md"
-    },
-    {
-      "basename": "python   VOICEVOX CORE　　VOICEVOX の音声合成コア",
-      "path": "inbox/python   VOICEVOX CORE　　VOICEVOX の音声合成コア.md"
     },
     {
       "basename": "ai  風邪ひいて寝込んでるうちにAIがすごいことに?!",
@@ -187,18 +199,6 @@
     {
       "basename": "mysql  SSH のポートフォワーディングで MySQL に接続する",
       "path": "inbox/mysql  SSH のポートフォワーディングで MySQL に接続する.md"
-    },
-    {
-      "basename": "ai  ChatGPT に英語の先生になってもらう",
-      "path": "inbox/ai  ChatGPT に英語の先生になってもらう.md"
-    },
-    {
-      "basename": "Sequel Ace の ssh_config",
-      "path": "inbox/Sequel Ace の ssh_config.md"
-    },
-    {
-      "basename": "mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい",
-      "path": "inbox/mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい.md"
     }
   ],
   "omittedPaths": [],
