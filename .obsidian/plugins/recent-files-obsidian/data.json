@@ -15,10 +15,14 @@
     {
       "basename": "ai VOICEVOX を mac m2 で使ってみる",
       "path": "inbox/ai VOICEVOX を mac m2 で使ってみる.md"
+    }
+    {
+      "basename": "clojure  Clojure 事始め",
+      "path": "inbox/clojure  Clojure 事始め.md"
     },
     {
-      "basename": "wordpress  Query Monitor プラグイン",
-      "path": "inbox/wordpress  Query Monitor プラグイン.md"
+      "basename": "emacs Clojure 再入門(何度目?)",
+      "path": "inbox/emacs Clojure 再入門(何度目?).md"
     },
     {
       "basename": "css Grid 入門",
@@ -27,10 +31,14 @@
     {
       "basename": "php VScode での開発環境",
       "path": "inbox/php VScode での開発環境.md"
+    }
+    {
+      "basename": "ai ChatGPT で出来る出力フォーマット",
+      "path": "inbox/ai ChatGPT で出来る出力フォーマット.md"
     },
     {
-      "basename": "design  アイコンを探す",
-      "path": "inbox/design  アイコンを探す.md"
+      "basename": "clojure  VScode のフォーマッター",
+      "path": "inbox/clojure  VScode のフォーマッター.md"
     },
     {
       "basename": "elixir Livebook でWebアプリにデプロイ?",
@@ -59,110 +67,18 @@
     {
       "basename": "document 2023-05-11 15.24.22.excalidraw",
       "path": "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md"
+    }
+    {
+      "basename": "clip_studio 左右反転のショートカットを当てる",
+      "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
     },
     {
       "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
       "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
     },
     {
-      "basename": "python asdf で入れる",
-      "path": "inbox/python asdf で入れる.md"
-    },
-    {
-      "basename": "遠野アバターのまとめ Node-RED",
-      "path": "inbox/遠野アバターのまとめ Node-RED.md"
-    },
-    {
-      "basename": "ai  Mac の ChatGPT クライアントアプリ",
-      "path": "inbox/ai  Mac の ChatGPT クライアントアプリ.md"
-    },
-    {
-      "basename": "tono-avator 2023-02-09 14.17.06.excalidraw",
-      "path": "Excalidraw/tono-avator 2023-02-09 14.17.06.excalidraw.md"
-    },
-    {
-      "basename": "raspberry_pi  apt Upgrade したら Node-REDが動かなくなった",
-      "path": "inbox/raspberry_pi  apt Upgrade したら Node-REDが動かなくなった.md"
-    },
-    {
-      "basename": "clip_studio 年間契約完了",
-      "path": "inbox/clip_studio 年間契約完了.md"
-    },
-    {
-      "basename": "proxy 2023-05-08 16.58.21.excalidraw",
-      "path": "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md"
-    },
-    {
       "basename": "js  Canvas の画像にドロップシャドウをつける",
       "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
-    },
-    {
-      "basename": "js cropper.js の使い方",
-      "path": "inbox/js cropper.js の使い方.md"
-    },
-    {
-      "basename": "rails. JS でCORSが出た",
-      "path": "inbox/rails. JS でCORSが出た.md"
-    },
-    {
-      "basename": "alma_linux  日本語が表示されないのを治す",
-      "path": "inbox/alma_linux  日本語が表示されないのを治す.md"
-    },
-    {
-      "basename": "clojure を今の mac の VSCode で動かす",
-      "path": "inbox/clojure を今の mac の VSCode で動かす.md"
-    },
-    {
-      "basename": "clojure  Java のオブジェクトを使う",
-      "path": "inbox/clojure  Java のオブジェクトを使う.md"
-    },
-    {
-      "basename": "clojure  do の副作用の使い方",
-      "path": "inbox/clojure  do の副作用の使い方.md"
-    },
-    {
-      "basename": "loop  Microsoft Loop は Notion に変わろうとしている?",
-      "path": "inbox/loop  Microsoft Loop は Notion に変わろうとしている?.md"
-    },
-    {
-      "basename": "clojure loop と recur による再帰の使い方",
-      "path": "inbox/clojure loop と recur による再帰の使い方.md"
-    },
-    {
-      "basename": "iTerm2 のテーマが可愛すぎる",
-      "path": "inbox/iTerm2 のテーマが可愛すぎる.md"
-    },
-    {
-      "basename": "iterm2 Quit で問答無用で終わって欲しい",
-      "path": "inbox/iterm2 Quit で問答無用で終わって欲しい.md"
-    },
-    {
-      "basename": "js   ガルーン Garoon の検証",
-      "path": "inbox/js   ガルーン Garoon の検証.md"
-    },
-    {
-      "basename": "rails  Devise-token-auth で API を使えるようにするには",
-      "path": "inbox/rails  Devise-token-auth で API を使えるようにするには.md"
-    },
-    {
-      "basename": "rails 7 で アイコンフォントを使う",
-      "path": "inbox/rails 7 で アイコンフォントを使う.md"
-    },
-    {
-      "basename": "obs  ライブ配信でOBS を使う",
-      "path": "inbox/obs  ライブ配信でOBS を使う.md"
-    },
-    {
-      "basename": "nginx  RTMP モジュール込みで mac に立てる",
-      "path": "inbox/nginx  RTMP モジュール込みで mac に立てる.md"
-    },
-    {
-      "basename": "vscode Pyhon だけindent=4にしたいのだが",
-      "path": "inbox/vscode Pyhon だけindent=4にしたいのだが.md"
-    },
-    {
-      "basename": "rails Cropper.js ライブラリを使う",
-      "path": "inbox/rails Cropper.js ライブラリを使う.md"
     },
     {
       "basename": "React Hero Setup a new React application with Vite + TypeScript",
@@ -199,6 +115,142 @@
     {
       "basename": "mysql  SSH のポートフォワーディングで MySQL に接続する",
       "path": "inbox/mysql  SSH のポートフォワーディングで MySQL に接続する.md"
+    },
+    {
+      "basename": "ai  ChatGPT に英語の先生になってもらう",
+      "path": "inbox/ai  ChatGPT に英語の先生になってもらう.md"
+    },
+    {
+      "basename": "Sequel Ace の ssh_config",
+      "path": "inbox/Sequel Ace の ssh_config.md"
+    },
+    {
+      "basename": "mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい",
+      "path": "inbox/mysql  Sequel Ace で HTTP Proxy コマンドを使えるようにしたい.md"
+    },
+    {
+      "basename": "vscode Typescript ESlint + Prettier のセットアップ記事",
+      "path": "inbox/vscode Typescript ESlint + Prettier のセットアップ記事.md"
+    },
+    {
+      "basename": "Google One で VPN が使えるようになったときた",
+      "path": "inbox/Google One で VPN が使えるようになったときた.md"
+    },
+    {
+      "basename": "ChatGTP を最強の学習ツールにするんだって",
+      "path": "inbox/ChatGTP を最強の学習ツールにするんだって.md"
+    },
+    {
+      "basename": "mysql 8 を入れてrootにゆるゆるパスワードを入れる",
+      "path": "inbox/mysql 8 を入れてrootにゆるゆるパスワードを入れる.md"
+    },
+    {
+      "basename": "aws アカウント作った",
+      "path": "inbox/aws アカウント作った.md"
+    },
+    {
+      "basename": "vscode 全角が見えるようにする",
+      "path": "inbox/vscode 全角が見えるようにする.md"
+    },
+    {
+      "basename": "vscode Prettier の設定",
+      "path": "inbox/vscode Prettier の設定.md"
+    },
+    {
+      "basename": "vscode Tab Indent 設定",
+      "path": "inbox/vscode Tab Indent 設定.md"
+    },
+    {
+      "basename": "GTFS データのまとめ",
+      "path": "inbox/GTFS データのまとめ.md"
+    },
+    {
+      "basename": "js M2 に移行したら Puppeteer が動かなくなった",
+      "path": "inbox/js M2 に移行したら Puppeteer が動かなくなった.md"
+    },
+    {
+      "basename": "rails CarrierWave で url にドメインをつけたい",
+      "path": "inbox/rails CarrierWave で url にドメインをつけたい.md"
+    },
+    {
+      "basename": "css  Canvas要素をA4サイズにマッピングしたい",
+      "path": "inbox/css  Canvas要素をA4サイズにマッピングしたい.md"
+    },
+    {
+      "basename": "ai ChatGPT の深津氏のメソッド",
+      "path": "inbox/ai ChatGPT の深津氏のメソッド.md"
+    },
+    {
+      "basename": "ai ChatGPT の IDE Cursor",
+      "path": "inbox/ai ChatGPT の IDE Cursor.md"
+    },
+    {
+      "basename": "ai  RWKV がすごいらしい",
+      "path": "inbox/ai  RWKV がすごいらしい.md"
+    },
+    {
+      "basename": "2021-12-16",
+      "path": "journals/2021-12-16.md"
+    },
+    {
+      "basename": "Drawing 2023-02-09 16.30.12.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-09 16.30.12.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-04-17 16.23.49.excalidraw",
+      "path": "Excalidraw/Drawing 2023-04-17 16.23.49.excalidraw.md"
+    },
+    {
+      "basename": "aws  個人用 AWS の設定",
+      "path": "inbox/aws  個人用 AWS の設定.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 09.07.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 09.07.50.excalidraw.md"
+    },
+    {
+      "basename": "gtfs-relationship 2023-02-20 10.34.16.excalidraw",
+      "path": "Excalidraw/gtfs-relationship 2023-02-20 10.34.16.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-28 14.27.28.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-28 14.27.28.excalidraw.md"
+    },
+    {
+      "basename": "yahaba-gtfs-やはばす 2023-03-02 16.28.00.excalidraw",
+      "path": "Excalidraw/yahaba-gtfs-やはばす 2023-03-02 16.28.00.excalidraw.md"
+    },
+    {
+      "basename": "やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw",
+      "path": "Excalidraw/やはばす郵便局前gtfs 2023-03-03 09.33.23.excalidraw.md"
+    },
+    {
+      "basename": "GTFS_table 2023-03-03 18.02.47.excalidraw",
+      "path": "Excalidraw/GTFS_table 2023-03-03 18.02.47.excalidraw.md"
+    },
+    {
+      "basename": "gtfs_ER図 2023-03-09 17.15.57.excalidraw",
+      "path": "Excalidraw/gtfs_ER図 2023-03-09 17.15.57.excalidraw.md"
+    },
+    {
+      "basename": "yahabus 2023-03-01 17.45.12.excalidraw",
+      "path": "Excalidraw/yahabus 2023-03-01 17.45.12.excalidraw.md"
+    },
+    {
+      "basename": "GTFS function 2023-03-24 14.44.05.excalidraw",
+      "path": "Excalidraw/GTFS function 2023-03-24 14.44.05.excalidraw.md"
+    },
+    {
+      "basename": "tonoabator 2023-02-09 14.41.30.excalidraw",
+      "path": "Excalidraw/tonoabator 2023-02-09 14.41.30.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-01-31 11.46.29.excalidraw",
+      "path": "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md"
+    },
+    {
+      "basename": "ogasta 2023-02-06 13.41.08.excalidraw",
+      "path": "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md"
     }
   ],
   "omittedPaths": [],
