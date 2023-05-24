@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "AWSで学ぶクラウド時代のネットワーク",
+      "path": "inbox/AWSで学ぶクラウド時代のネットワーク.md"
+    },
+    {
+      "basename": "A4 の pixel",
+      "path": "inbox/A4 の pixel.md"
+    },
+    {
+      "basename": "ai 指示するだけで開発~公開までしてくれるSutro",
+      "path": "inbox/ai 指示するだけで開発~公開までしてくれるSutro.md"
+    },
+    {
       "basename": "vscode  Rails html.erb で Emmet",
       "path": "inbox/vscode  Rails html.erb で Emmet.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Drawing 2023-04-21 13.00.50.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md"
-    },
-    {
-      "basename": "mysql  今日の日付のものを抽出するには",
-      "path": "inbox/mysql  今日の日付のものを抽出するには.md"
-    },
-    {
-      "basename": "hhkb 手に入れた",
-      "path": "inbox/hhkb 手に入れた.md"
-    },
-    {
-      "basename": "alma_linux MariaDB を入れる",
-      "path": "inbox/alma_linux MariaDB を入れる.md"
     }
   ],
   "omittedPaths": [],
