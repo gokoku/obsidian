@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab74395787ec36d",
+        "id": "00b8862e49ce34cd",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfc450860e22e44",
+            "id": "1d4dd9645375e5e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,64 +16,12 @@
             }
           },
           {
-            "id": "c903abbf66f90a56",
+            "id": "88f3ec0177705bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/js  Canvas の画像にドロップシャドウをつける.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36360ba09bef8da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612f52a869650df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clip_studio 左右反転のショートカットを当てる.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ebe815482300c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clojure  VScode のフォーマッター.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82923134f806efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/clojure  Clojure 事始め.md",
+                "file": "inbox/clojure. GUI でイベントリスナーとる.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/clojure  Clojure 事始め.md",
+                "file": "inbox/clojure. GUI でイベントリスナーとる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/clojure  Clojure 事始め.md"
+                "file": "inbox/clojure. GUI でイベントリスナーとる.md"
               }
             }
           }
@@ -238,8 +186,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f82923134f806efb",
+  "active": "88f3ec0177705bf1",
   "lastOpenFiles": [
+    "pictures/Pasted image 20230520213041.png",
+    "inbox/clojure. GUI でイベントリスナーとる.md",
+    "inbox/clojure  Clojure 事始め.md",
+    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
+    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
+    "inbox/clip_studio 左右反転のショートカットを当てる.md",
+    "inbox/clojure  VScode のフォーマッター.md",
     "inbox/emacs Clojure 再入門(何度目?).md",
     "inbox/ai ChatGPT で出来る出力フォーマット.md",
     "pictures/Pasted image 20230516172943.png",
@@ -268,13 +223,6 @@
     "inbox/ai  風邪ひいて寝込んでるうちにAIがすごいことに?!.md",
     "inbox/ai  Mac の ChatGPT クライアントアプリ.md",
     "Excalidraw/proxy 2023-05-08 16.58.21.excalidraw.md",
-    "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md",
-    "inbox/clojure  VScode のフォーマッター.md",
-    "inbox/clip_studio 左右反転のショートカットを当てる.md",
-    "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md",
-    "inbox/js  Canvas の画像にドロップシャドウをつける.md",
-    "inbox/React Hero Setup a new React application with Vite + TypeScript.md",
-    "Excalidraw/yahabus_calendar_date 2023-04-21 11.43.11.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-21 13.00.50.excalidraw.md"
+    "Excalidraw/document 2023-05-11 15.24.22.excalidraw.md"
   ]
 }

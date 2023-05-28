@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "clojure. GUI でイベントリスナーとる",
+      "path": "inbox/clojure. GUI でイベントリスナーとる.md"
+    },
+    {
       "basename": "clojure  Clojure 事始め",
       "path": "inbox/clojure  Clojure 事始め.md"
+    },
+    {
+      "basename": "js  Canvas の画像にドロップシャドウをつける",
+      "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
+    },
+    {
+      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
+      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
+    },
+    {
+      "basename": "clip_studio 左右反転のショートカットを当てる",
+      "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
+    },
+    {
+      "basename": "clojure  VScode のフォーマッター",
+      "path": "inbox/clojure  VScode のフォーマッター.md"
     },
     {
       "basename": "emacs Clojure 再入門(何度目?)",
@@ -11,22 +31,6 @@
     {
       "basename": "ai ChatGPT で出来る出力フォーマット",
       "path": "inbox/ai ChatGPT で出来る出力フォーマット.md"
-    },
-    {
-      "basename": "clojure  VScode のフォーマッター",
-      "path": "inbox/clojure  VScode のフォーマッター.md"
-    },
-    {
-      "basename": "clip_studio 左右反転のショートカットを当てる",
-      "path": "inbox/clip_studio 左右反転のショートカットを当てる.md"
-    },
-    {
-      "basename": "asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき",
-      "path": "inbox/asdf  バージョンがあるのにも関わらずそのバージョンを入れてくれと言われて動かなかったとき.md"
-    },
-    {
-      "basename": "js  Canvas の画像にドロップシャドウをつける",
-      "path": "inbox/js  Canvas の画像にドロップシャドウをつける.md"
     },
     {
       "basename": "React Hero Setup a new React application with Vite + TypeScript",
@@ -195,10 +199,6 @@
     {
       "basename": "ogasta 2023-01-31 11.46.29.excalidraw",
       "path": "Excalidraw/ogasta 2023-01-31 11.46.29.excalidraw.md"
-    },
-    {
-      "basename": "ogasta 2023-02-06 13.41.08.excalidraw",
-      "path": "Excalidraw/ogasta 2023-02-06 13.41.08.excalidraw.md"
     }
   ],
   "omittedPaths": [],
