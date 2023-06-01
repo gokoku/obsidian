@@ -23,4 +23,3 @@ imgファイルをUSBBメモリに書き込む。
 ```shell
 $ sudo dd if=/Users/george/Downloads/ubuntu-21.04-desktop-amd64.img.dmg of=/dev/disk4 bs=1m
 ```
-

@@ -11,6 +11,8 @@ type: note
 
 https://github.com/bes-dev/stable_diffusion.openvino
 
+
+
 ```shell
 $ git clone git@github.com:bes-dev/stable_diffusion.openvino.git
 $ cd stable_diffusion.openvino
